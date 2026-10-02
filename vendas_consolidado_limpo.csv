@@ -1,0 +1,834 @@
+﻿ID_Venda,Data_Venda,ID_Cliente,ID_Vendedor,ID_Produto,Quantidade,Preco_Unitario,Valor_Total,UF,Regiao,Canal_Venda,Status,Produto,Categoria,Margem_Media_%,Nome_Cliente,Segmento,Nome_Vendedor,Meta_Mensal,Ano,Ano_Mes,Lucro_Estimado_R$
+1,2024-01-02,22,3,17,4,219.9,879.6,AL,Nordeste,Representante,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Tatiane Pinto,Pessoa Física,Carla Oliveira,15000,2024,2024-01,290.26800000000003
+2,2024-01-02,36,10,5,8,249.9,1999.2,RS,Sul,E-commerce,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Camila Andrade,Pessoa Física,João Carvalho,15000,2024,2024-01,439.824
+3,2024-01-08,31,20,3,8,2350.0,18800.0,SC,Sul,Loja Física,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Ricardo Fontoura,Pessoa Física,Thiago Teixeira,25000,2024,2024-01,4136.0
+4,2024-01-08,17,19,7,7,459.0,3213.0,PE,Nordeste,Loja Física,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Caio Alves,Pessoa Jurídica,Sofia Cardoso,25000,2024,2024-01,963.9
+5,2024-01-14,1,17,18,4,179.9,719.6,MS,Centro-Oeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Marcos Silva,Pessoa Física,Queila Alves,15000,2024,2024-01,194.29200000000003
+6,2024-01-14,6,8,4,8,3100.0,24800.0,ES,Sudeste,Loja Física,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Camila Pereira,Pessoa Física,Henrique Ferreira,30000,2024,2024-01,5456.0
+7,2024-01-24,22,4,8,4,1850.0,7400.0,MG,Sudeste,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Tatiane Pinto,Pessoa Física,Diego Souza,15000,2024,2024-01,1850.0
+8,2024-01-26,17,11,20,7,159.9,1119.3,PR,Sul,Televendas,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Caio Alves,Pessoa Jurídica,Karina Gomes,20000,2024,2024-01,212.667
+9,2024-01-29,36,11,20,4,159.9,639.6,PR,Sul,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Camila Andrade,Pessoa Física,Karina Gomes,20000,2024,2024-01,121.524
+10,2024-01-31,13,3,8,7,1850.0,12950.0,AL,Nordeste,Loja Física,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Rafael Araujo,Pessoa Física,Carla Oliveira,15000,2024,2024-01,3237.5
+11,2024-02-04,36,5,9,5,329.9,1649.5,MT,Centro-Oeste,Televendas,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Camila Andrade,Pessoa Física,Eduarda Costa,15000,2024,2024-02,412.375
+12,2024-02-07,39,17,5,2,249.9,499.8,MS,Centro-Oeste,Representante,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Felipe Azevedo,Pessoa Física,Queila Alves,15000,2024,2024-02,109.956
+13,2024-02-09,12,19,9,1,329.9,329.9,PE,Nordeste,Representante,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Juliana Martins,Pessoa Jurídica,Sofia Cardoso,25000,2024,2024-02,82.475
+14,2024-02-12,30,5,14,3,59.9,179.7,MT,Centro-Oeste,Televendas,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Simone Batista,Pessoa Jurídica,Eduarda Costa,15000,2024,2024-02,35.94
+15,2024-02-22,28,12,14,7,59.9,419.3,RJ,Sudeste,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Debora Cavalcanti,Pessoa Física,Lucas Martins,25000,2024,2024-02,83.86000000000001
+16,2024-02-23,20,13,9,8,329.9,2639.2,BA,Nordeste,E-commerce,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Priscila Teixeira,Pessoa Jurídica,Mariana Araujo,20000,2024,2024-02,659.8
+17,2024-02-28,2,5,1,6,4200.0,25200.0,MT,Centro-Oeste,Loja Física,Pendente,Notebook Pro 15,Informática,0.18,Fernanda Santos,Pessoa Física,Eduarda Costa,15000,2024,2024-02,4536.0
+18,2024-02-29,37,8,19,1,129.9,129.9,GO,Centro-Oeste,Representante,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Diego Marques,Pessoa Jurídica,Henrique Ferreira,30000,2024,2024-02,35.073
+19,2024-03-07,23,9,11,5,189.9,949.5,RJ,Sudeste,Televendas,Pendente,Ração Premium Cães 15kg,Pet,0.28,Marcelo Moreira,Pessoa Jurídica,Isabela Rodrigues,25000,2024,2024-03,265.86
+20,2024-03-08,7,12,18,7,179.9,1259.3,SP,Sudeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Leonardo Almeida,Pessoa Jurídica,Lucas Martins,25000,2024,2024-03,340.011
+21,2024-03-10,21,19,20,2,159.9,319.8,RO,Norte,Loja Física,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Fabio Nunes,Pessoa Física,Sofia Cardoso,25000,2024,2024-03,60.762
+22,2024-03-23,20,11,12,1,39.9,39.9,PR,Sul,Loja Física,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Priscila Teixeira,Pessoa Jurídica,Karina Gomes,20000,2024,2024-03,11.172
+23,2024-03-27,30,12,10,4,189.9,759.6,RJ,Sudeste,Loja Física,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Simone Batista,Pessoa Jurídica,Lucas Martins,25000,2024,2024-03,265.86
+24,2024-04-08,37,3,3,8,2350.0,18800.0,PR,Sul,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Carla Oliveira,15000,2024,2024-04,4136.0
+25,2024-04-08,18,17,16,4,149.9,599.6,MS,Centro-Oeste,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Amanda Monteiro,Pessoa Física,Queila Alves,15000,2024,2024-04,197.86800000000002
+26,2024-04-11,21,18,3,3,2350.0,7050.0,SP,Sudeste,Representante,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Rafael Monteiro,15000,2024,2024-04,1551.0
+27,2024-04-15,16,15,19,7,129.9,909.3,AM,Norte,Representante,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Vanessa Ribeiro,Pessoa Física,Olivia Barbosa,15000,2024,2024-04,245.511
+28,2024-04-16,29,11,6,1,199.9,199.9,PR,Sul,Representante,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Otavio Farias,Pessoa Jurídica,Karina Gomes,20000,2024,2024-04,59.97
+29,2024-04-21,2,2,16,7,149.9,1049.3,SP,Sudeste,E-commerce,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Fernanda Santos,Pessoa Física,Bruno Santos,20000,2024,2024-04,346.269
+30,2024-04-25,9,4,2,5,89.9,449.5,MG,Sudeste,E-commerce,Pendente,Mouse Sem Fio X200,Informática,0.18,Gustavo Rodrigues,Pessoa Física,Diego Souza,15000,2024,2024-04,80.91
+31,2024-04-30,23,3,8,6,1850.0,11100.0,AL,Nordeste,Representante,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Marcelo Moreira,Pessoa Jurídica,Carla Oliveira,15000,2024,2024-04,2775.0
+32,2024-05-02,19,12,12,7,39.9,279.3,RJ,Sudeste,Representante,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Daniel Cardoso,Pessoa Jurídica,Lucas Martins,25000,2024,2024-05,78.20400000000001
+33,2024-05-05,6,10,11,7,189.9,1329.3,RS,Sul,Loja Física,Pendente,Ração Premium Cães 15kg,Pet,0.28,Camila Pereira,Pessoa Física,João Carvalho,15000,2024,2024-05,372.204
+34,2024-05-06,17,2,5,7,249.9,1749.3,SP,Sudeste,E-commerce,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Caio Alves,Pessoa Jurídica,Bruno Santos,20000,2024,2024-05,384.846
+35,2024-05-07,30,11,11,7,189.9,1329.3,PR,Sul,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Simone Batista,Pessoa Jurídica,Karina Gomes,20000,2024,2024-05,372.204
+36,2024-05-10,19,1,13,5,49.9,249.5,ES,Sudeste,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Daniel Cardoso,Pessoa Jurídica,Ana Silva,15000,2024,2024-05,69.86000000000001
+37,2024-05-11,32,18,2,2,89.9,179.8,SP,Sudeste,Televendas,Concluída,Mouse Sem Fio X200,Informática,0.18,Luana Peixoto,Pessoa Física,Rafael Monteiro,15000,2024,2024-05,32.364000000000004
+38,2024-05-19,36,8,19,4,129.9,519.6,GO,Centro-Oeste,E-commerce,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Camila Andrade,Pessoa Física,Henrique Ferreira,30000,2024,2024-05,140.292
+39,2024-05-24,17,19,13,6,49.9,299.4,PE,Nordeste,Loja Física,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Caio Alves,Pessoa Jurídica,Sofia Cardoso,25000,2024,2024-05,83.83200000000001
+40,2024-05-25,26,17,1,8,4200.0,33600.0,MS,Centro-Oeste,Loja Física,Pendente,Notebook Pro 15,Informática,0.18,Cristina Dias,Pessoa Física,Queila Alves,15000,2024,2024-05,6048.0
+41,2024-05-25,32,15,2,4,89.9,359.6,AM,Norte,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Luana Peixoto,Pessoa Física,Olivia Barbosa,15000,2024,2024-05,64.72800000000001
+42,2024-05-28,5,9,12,7,39.9,279.3,AL,Nordeste,Televendas,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Vinicius Costa,Pessoa Jurídica,Isabela Rodrigues,25000,2024,2024-05,78.20400000000001
+43,2024-06-08,24,4,12,6,39.9,239.4,MG,Sudeste,Televendas,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Aline Nascimento,Pessoa Física,Diego Souza,15000,2024,2024-06,67.03200000000001
+44,2024-06-09,30,8,3,8,2350.0,18800.0,GO,Centro-Oeste,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Simone Batista,Pessoa Jurídica,Henrique Ferreira,30000,2024,2024-06,4136.0
+45,2024-06-12,33,19,4,8,3100.0,24800.0,PE,Nordeste,E-commerce,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Andre Siqueira,Pessoa Jurídica,Sofia Cardoso,25000,2024,2024-06,5456.0
+46,2024-06-16,19,13,18,1,179.9,179.9,BA,Nordeste,Televendas,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Daniel Cardoso,Pessoa Jurídica,Mariana Araujo,20000,2024,2024-06,48.57300000000001
+47,2024-06-16,23,11,18,7,179.9,1259.3,PR,Sul,Televendas,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Marcelo Moreira,Pessoa Jurídica,Karina Gomes,20000,2024,2024-06,340.011
+48,2024-06-22,24,15,17,8,219.9,1759.2,AM,Norte,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Aline Nascimento,Pessoa Física,Olivia Barbosa,15000,2024,2024-06,580.5360000000001
+49,2024-06-22,14,17,16,3,149.9,449.7,MS,Centro-Oeste,Televendas,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Larissa Melo,Pessoa Física,Queila Alves,15000,2024,2024-06,148.401
+50,2024-06-22,10,16,2,3,89.9,269.7,PB,Nordeste,Televendas,Concluída,Mouse Sem Fio X200,Informática,0.18,Renata Carvalho,Pessoa Física,Pedro Ribeiro,25000,2024,2024-06,48.546
+51,2024-06-23,39,16,10,1,189.9,189.9,PB,Nordeste,Televendas,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Felipe Azevedo,Pessoa Física,Pedro Ribeiro,25000,2024,2024-06,66.465
+52,2024-06-23,32,4,1,4,4200.0,16800.0,MG,Sudeste,Televendas,Pendente,Notebook Pro 15,Informática,0.18,Luana Peixoto,Pessoa Física,Diego Souza,15000,2024,2024-06,3024.0
+53,2024-06-24,36,16,5,4,249.9,999.6,PB,Nordeste,E-commerce,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Camila Andrade,Pessoa Física,Pedro Ribeiro,25000,2024,2024-06,219.912
+54,2024-06-24,7,11,14,6,59.9,359.4,PR,Sul,Televendas,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Leonardo Almeida,Pessoa Jurídica,Karina Gomes,20000,2024,2024-06,71.88
+55,2024-06-25,38,1,19,7,129.9,909.3,ES,Sudeste,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Beatriz Nogueira,Pessoa Jurídica,Ana Silva,15000,2024,2024-06,245.511
+56,2024-06-30,5,1,15,2,24.9,49.8,ES,Sudeste,Loja Física,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Vinicius Costa,Pessoa Jurídica,Ana Silva,15000,2024,2024-06,9.96
+57,2024-07-08,10,1,4,7,3100.0,21700.0,ES,Sudeste,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Renata Carvalho,Pessoa Física,Ana Silva,15000,2024,2024-07,4774.0
+58,2024-07-13,22,13,6,8,199.9,1599.2,MS,Centro-Oeste,E-commerce,Cancelada,Liquidificador Turbo,Casa e Cozinha,0.3,Tatiane Pinto,Pessoa Física,Mariana Araujo,20000,2024,2024-07,479.76
+59,2024-07-22,24,3,17,6,219.9,1319.4,AL,Nordeste,Representante,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Aline Nascimento,Pessoa Física,Carla Oliveira,15000,2024,2024-07,435.40200000000004
+60,2024-08-07,30,9,12,3,39.9,119.7,AL,Nordeste,E-commerce,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Simone Batista,Pessoa Jurídica,Isabela Rodrigues,25000,2024,2024-08,33.516000000000005
+61,2024-08-11,17,7,11,4,189.9,759.6,AL,Nordeste,Loja Física,Concluída,Ração Premium Cães 15kg,Pet,0.28,Caio Alves,Pessoa Jurídica,Gabriela Almeida,15000,2024,2024-08,212.68800000000002
+62,2024-08-13,36,1,10,5,189.9,949.5,ES,Sudeste,Televendas,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Camila Andrade,Pessoa Física,Ana Silva,15000,2024,2024-08,332.325
+63,2024-08-14,9,2,10,6,189.9,1139.4,RS,Sul,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Gustavo Rodrigues,Pessoa Física,Bruno Santos,20000,2024,2024-08,398.79
+64,2024-08-19,36,18,11,2,189.9,379.8,SP,Sudeste,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Camila Andrade,Pessoa Física,Rafael Monteiro,15000,2024,2024-08,106.34400000000001
+65,2024-08-22,2,3,14,3,59.9,179.7,RR,Norte,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Fernanda Santos,Pessoa Física,Carla Oliveira,15000,2024,2024-08,35.94
+66,2024-08-24,37,19,16,4,149.9,599.6,PE,Nordeste,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Diego Marques,Pessoa Jurídica,Sofia Cardoso,25000,2024,2024-08,197.86800000000002
+67,2024-08-25,12,16,17,8,219.9,1759.2,RR,Norte,Representante,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Juliana Martins,Pessoa Jurídica,Pedro Ribeiro,25000,2024,2024-08,580.5360000000001
+68,2024-08-27,16,4,10,2,189.9,379.8,MG,Sudeste,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Vanessa Ribeiro,Pessoa Física,Diego Souza,15000,2024,2024-08,132.93
+69,2024-08-30,8,15,5,8,249.9,1999.2,AM,Norte,Televendas,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Patricia Ferreira,Pessoa Física,Olivia Barbosa,15000,2024,2024-08,439.824
+70,2024-09-03,10,1,3,4,2350.0,9400.0,ES,Sudeste,Representante,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Renata Carvalho,Pessoa Física,Ana Silva,15000,2024,2024-09,2068.0
+71,2024-09-04,9,2,2,5,89.9,449.5,PA,Norte,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Gustavo Rodrigues,Pessoa Física,Bruno Santos,20000,2024,2024-09,80.91
+72,2024-09-06,11,6,3,7,2350.0,16450.0,AC,Norte,Loja Física,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Alexandre Gomes,Pessoa Física,Felipe Pereira,20000,2024,2024-09,3619.0
+73,2024-09-09,6,6,8,3,1850.0,5550.0,AC,Norte,Loja Física,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Camila Pereira,Pessoa Física,Felipe Pereira,20000,2024,2024-09,1387.5
+74,2024-09-12,31,18,17,6,219.9,1319.4,SP,Sudeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Ricardo Fontoura,Pessoa Física,Rafael Monteiro,15000,2024,2024-09,435.40200000000004
+75,2024-09-15,20,7,13,8,49.9,399.2,AL,Nordeste,Representante,Pendente,Coleira Ajustável para Cães,Pet,0.28,Priscila Teixeira,Pessoa Jurídica,Gabriela Almeida,15000,2024,2024-09,111.77600000000001
+76,2024-09-16,29,1,3,5,2350.0,11750.0,ES,Sudeste,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Ana Silva,15000,2024,2024-09,2585.0
+77,2024-09-16,5,3,3,2,2350.0,4700.0,AL,Nordeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Vinicius Costa,Pessoa Jurídica,Carla Oliveira,15000,2024,2024-09,1034.0
+78,2024-09-18,11,9,17,7,219.9,1539.3,GO,Centro-Oeste,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Alexandre Gomes,Pessoa Física,Isabela Rodrigues,25000,2024,2024-09,507.969
+79,2024-09-18,1,3,8,3,1850.0,5550.0,AL,Nordeste,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Marcos Silva,Pessoa Física,Carla Oliveira,15000,2024,2024-09,1387.5
+80,2024-09-18,21,13,20,5,159.9,799.5,BA,Nordeste,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Fabio Nunes,Pessoa Física,Mariana Araujo,20000,2024,2024-09,151.905
+81,2024-09-20,22,3,8,5,1850.0,9250.0,AL,Nordeste,Loja Física,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Tatiane Pinto,Pessoa Física,Carla Oliveira,15000,2024,2024-09,2312.5
+82,2024-09-22,8,10,17,5,219.9,1099.5,RS,Sul,Televendas,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Patricia Ferreira,Pessoa Física,João Carvalho,15000,2024,2024-09,362.83500000000004
+83,2024-09-24,33,14,18,8,179.9,1439.2,SP,Sudeste,Representante,Cancelada,Boneca Interativa Fala e Canta,Brinquedos,0.27,Andre Siqueira,Pessoa Jurídica,Nelson Melo,15000,2024,2024-09,388.58400000000006
+84,2024-09-27,32,20,14,5,59.9,299.5,SC,Sul,Televendas,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Luana Peixoto,Pessoa Física,Thiago Teixeira,25000,2024,2024-09,59.900000000000006
+85,2024-09-28,17,17,16,5,149.9,749.5,AP,Norte,E-commerce,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Caio Alves,Pessoa Jurídica,Queila Alves,15000,2024,2024-09,247.335
+86,2024-10-02,21,2,2,8,89.9,719.2,SP,Sudeste,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Fabio Nunes,Pessoa Física,Bruno Santos,20000,2024,2024-10,129.45600000000002
+87,2024-10-03,27,14,11,8,189.9,1519.2,PR,Sul,Loja Física,Cancelada,Ração Premium Cães 15kg,Pet,0.28,Sergio Lopes,Pessoa Física,Nelson Melo,15000,2024,2024-10,425.37600000000003
+88,2024-10-09,20,9,8,2,1850.0,3700.0,AL,Nordeste,Televendas,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Priscila Teixeira,Pessoa Jurídica,Isabela Rodrigues,25000,2024,2024-10,925.0
+89,2024-10-11,28,20,17,2,219.9,439.8,SC,Sul,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Debora Cavalcanti,Pessoa Física,Thiago Teixeira,25000,2024,2024-10,145.13400000000001
+90,2024-10-11,8,15,3,3,2350.0,7050.0,AM,Norte,Loja Física,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Patricia Ferreira,Pessoa Física,Olivia Barbosa,15000,2024,2024-10,1551.0
+91,2024-10-14,7,4,15,3,24.9,74.7,MG,Sudeste,E-commerce,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Leonardo Almeida,Pessoa Jurídica,Diego Souza,15000,2024,2024-10,14.940000000000001
+92,2024-10-15,5,3,11,3,189.9,569.7,AL,Nordeste,Televendas,Pendente,Ração Premium Cães 15kg,Pet,0.28,Vinicius Costa,Pessoa Jurídica,Carla Oliveira,15000,2024,2024-10,159.51600000000002
+93,2024-10-18,1,4,3,3,2350.0,7050.0,MG,Sudeste,Televendas,Pendente,Smartphone Galaxy A5,Eletrônicos,0.22,Marcos Silva,Pessoa Física,Diego Souza,15000,2024,2024-10,1551.0
+94,2024-10-18,9,7,14,7,59.9,419.3,AL,Nordeste,Loja Física,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Gustavo Rodrigues,Pessoa Física,Gabriela Almeida,15000,2024,2024-10,83.86000000000001
+95,2024-10-20,34,1,18,5,179.9,899.5,PA,Norte,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Vitoria Cunha,Pessoa Física,Ana Silva,15000,2024,2024-10,242.865
+96,2024-10-20,17,1,3,4,2350.0,9400.0,SC,Sul,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Caio Alves,Pessoa Jurídica,Ana Silva,15000,2024,2024-10,2068.0
+97,2024-10-26,39,1,9,3,329.9,989.7,GO,Centro-Oeste,Televendas,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Felipe Azevedo,Pessoa Física,Ana Silva,15000,2024,2024-10,247.425
+98,2024-10-27,19,8,20,6,159.9,959.4,GO,Centro-Oeste,Loja Física,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Daniel Cardoso,Pessoa Jurídica,Henrique Ferreira,30000,2024,2024-10,182.286
+99,2024-10-28,27,18,18,4,179.9,719.6,SP,Sudeste,Televendas,Cancelada,Boneca Interativa Fala e Canta,Brinquedos,0.27,Sergio Lopes,Pessoa Física,Rafael Monteiro,15000,2024,2024-10,194.29200000000003
+100,2024-10-31,16,7,1,3,4200.0,12600.0,AL,Nordeste,Representante,Concluída,Notebook Pro 15,Informática,0.18,Vanessa Ribeiro,Pessoa Física,Gabriela Almeida,15000,2024,2024-10,2268.0
+101,2024-10-31,12,7,7,8,459.0,3672.0,AL,Nordeste,Televendas,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Juliana Martins,Pessoa Jurídica,Gabriela Almeida,15000,2024,2024-10,1101.6
+102,2024-11-02,1,11,5,5,249.9,1249.5,PR,Sul,Representante,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Marcos Silva,Pessoa Física,Karina Gomes,20000,2024,2024-11,274.89
+103,2024-11-04,36,7,14,8,59.9,479.2,PI,Nordeste,Televendas,Cancelada,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Camila Andrade,Pessoa Física,Gabriela Almeida,15000,2024,2024-11,95.84
+104,2024-11-10,15,12,6,5,199.9,999.5,RJ,Sudeste,Loja Física,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Bruno Barbosa,Pessoa Jurídica,Lucas Martins,25000,2024,2024-11,299.84999999999997
+105,2024-11-12,34,17,9,3,329.9,989.7,MS,Centro-Oeste,Representante,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Vitoria Cunha,Pessoa Física,Queila Alves,15000,2024,2024-11,247.425
+106,2024-11-12,36,12,4,5,3100.0,15500.0,RJ,Sudeste,Representante,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Camila Andrade,Pessoa Física,Lucas Martins,25000,2024,2024-11,3410.0
+107,2024-11-13,32,3,19,1,129.9,129.9,AL,Nordeste,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Luana Peixoto,Pessoa Física,Carla Oliveira,15000,2024,2024-11,35.073
+108,2024-11-15,7,17,15,1,24.9,24.9,MS,Centro-Oeste,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Leonardo Almeida,Pessoa Jurídica,Queila Alves,15000,2024,2024-11,4.98
+109,2024-11-16,2,18,2,6,89.9,539.4,SP,Sudeste,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Fernanda Santos,Pessoa Física,Rafael Monteiro,15000,2024,2024-11,97.092
+110,2024-11-18,31,15,14,5,59.9,299.5,AM,Norte,Loja Física,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Ricardo Fontoura,Pessoa Física,Olivia Barbosa,15000,2024,2024-11,59.900000000000006
+111,2024-11-26,12,14,1,3,4200.0,12600.0,PR,Sul,Televendas,Cancelada,Notebook Pro 15,Informática,0.18,Juliana Martins,Pessoa Jurídica,Nelson Melo,15000,2024,2024-11,2268.0
+112,2024-11-28,16,9,6,2,199.9,399.8,AL,Nordeste,E-commerce,Cancelada,Liquidificador Turbo,Casa e Cozinha,0.3,Vanessa Ribeiro,Pessoa Física,Isabela Rodrigues,25000,2024,2024-11,119.94
+113,2024-11-29,4,6,13,1,49.9,49.9,BA,Nordeste,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Beatriz Souza,Pessoa Física,Felipe Pereira,20000,2024,2024-11,13.972000000000001
+114,2024-12-03,12,3,20,2,159.9,319.8,AL,Nordeste,Loja Física,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Juliana Martins,Pessoa Jurídica,Carla Oliveira,15000,2024,2024-12,60.762
+115,2024-12-04,38,1,10,7,189.9,1329.3,ES,Sudeste,Loja Física,Concluída,Jaqueta Corta-Vento,Moda,0.35,Beatriz Nogueira,Pessoa Jurídica,Ana Silva,15000,2024,2024-12,465.25499999999994
+116,2024-12-04,36,14,20,4,159.9,639.6,PR,Sul,Representante,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Camila Andrade,Pessoa Física,Nelson Melo,15000,2024,2024-12,121.524
+117,2024-12-05,15,15,9,8,329.9,2639.2,AM,Norte,E-commerce,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Bruno Barbosa,Pessoa Jurídica,Olivia Barbosa,15000,2024,2024-12,659.8
+118,2024-12-05,25,15,12,7,39.9,279.3,AM,Norte,Loja Física,Cancelada,Areia Higiênica para Gatos 4kg,Pet,0.28,Rogerio Correia,Pessoa Física,Olivia Barbosa,15000,2024,2024-12,78.20400000000001
+119,2024-12-08,37,13,8,7,1850.0,12950.0,BA,Nordeste,Representante,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Diego Marques,Pessoa Jurídica,Mariana Araujo,20000,2024,2024-12,3237.5
+120,2024-12-10,38,14,10,1,189.9,189.9,PR,Sul,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Beatriz Nogueira,Pessoa Jurídica,Nelson Melo,15000,2024,2024-12,66.465
+121,2024-12-10,33,9,14,8,59.9,479.2,AL,Nordeste,Representante,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Andre Siqueira,Pessoa Jurídica,Isabela Rodrigues,25000,2024,2024-12,95.84
+122,2024-12-16,23,14,11,6,189.9,1139.4,PR,Sul,Loja Física,Concluída,Ração Premium Cães 15kg,Pet,0.28,Marcelo Moreira,Pessoa Jurídica,Nelson Melo,15000,2024,2024-12,319.03200000000004
+123,2024-12-17,18,1,10,5,189.9,949.5,MT,Centro-Oeste,Representante,Concluída,Jaqueta Corta-Vento,Moda,0.35,Amanda Monteiro,Pessoa Física,Ana Silva,15000,2024,2024-12,332.325
+124,2024-12-20,20,12,4,4,3100.0,12400.0,RJ,Sudeste,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Priscila Teixeira,Pessoa Jurídica,Lucas Martins,25000,2024,2024-12,2728.0
+125,2024-12-22,35,6,3,8,2350.0,18800.0,MT,Centro-Oeste,Televendas,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Marcos Vinicius Rocha,Pessoa Física,Felipe Pereira,20000,2024,2024-12,4136.0
+126,2024-12-26,36,12,3,7,2350.0,16450.0,RJ,Sudeste,E-commerce,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Camila Andrade,Pessoa Física,Lucas Martins,25000,2024,2024-12,3619.0
+127,2024-12-26,37,7,3,4,2350.0,9400.0,AL,Nordeste,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Gabriela Almeida,15000,2024,2024-12,2068.0
+128,2024-12-27,10,3,2,3,89.9,269.7,AL,Nordeste,Televendas,Cancelada,Mouse Sem Fio X200,Informática,0.18,Renata Carvalho,Pessoa Física,Carla Oliveira,15000,2024,2024-12,48.546
+129,2024-12-27,40,20,18,1,179.9,179.9,SC,Sul,Televendas,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Larissa Prado,Pessoa Jurídica,Thiago Teixeira,25000,2024,2024-12,48.57300000000001
+130,2024-12-31,30,3,7,1,459.0,459.0,AL,Nordeste,Televendas,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Simone Batista,Pessoa Jurídica,Carla Oliveira,15000,2024,2024-12,137.7
+131,2025-01-03,18,15,14,8,59.9,479.2,AM,Norte,Representante,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Amanda Monteiro,Pessoa Física,Olivia Barbosa,15000,2025,2025-01,95.84
+132,2025-01-03,18,18,19,1,129.9,129.9,SP,Sudeste,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Amanda Monteiro,Pessoa Física,Rafael Monteiro,15000,2025,2025-01,35.073
+133,2025-01-04,30,10,6,7,199.9,1399.3,RS,Sul,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Simone Batista,Pessoa Jurídica,João Carvalho,15000,2025,2025-01,419.78999999999996
+134,2025-01-05,38,5,4,9,3100.0,27900.0,AM,Norte,Televendas,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Beatriz Nogueira,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-01,6138.0
+135,2025-01-09,29,16,8,6,1850.0,11100.0,PB,Nordeste,Representante,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Otavio Farias,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-01,2775.0
+136,2025-01-09,7,3,11,3,189.9,569.7,RR,Norte,E-commerce,Pendente,Ração Premium Cães 15kg,Pet,0.28,Leonardo Almeida,Pessoa Jurídica,Carla Oliveira,15000,2025,2025-01,159.51600000000002
+137,2025-01-09,21,9,9,5,329.9,1649.5,AL,Nordeste,Loja Física,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Fabio Nunes,Pessoa Física,Isabela Rodrigues,25000,2025,2025-01,412.375
+138,2025-01-11,7,6,8,9,1850.0,16650.0,AC,Norte,Loja Física,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Leonardo Almeida,Pessoa Jurídica,Felipe Pereira,20000,2025,2025-01,4162.5
+139,2025-01-12,25,5,6,1,199.9,199.9,MT,Centro-Oeste,Representante,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Rogerio Correia,Pessoa Física,Eduarda Costa,15000,2025,2025-01,59.97
+140,2025-01-13,29,18,18,4,179.9,719.6,SP,Sudeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Otavio Farias,Pessoa Jurídica,Rafael Monteiro,15000,2025,2025-01,194.29200000000003
+141,2025-01-14,22,16,4,3,3100.0,9300.0,PB,Nordeste,Loja Física,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Tatiane Pinto,Pessoa Física,Pedro Ribeiro,25000,2025,2025-01,2046.0
+142,2025-01-14,25,3,18,4,179.9,719.6,AL,Nordeste,Loja Física,Cancelada,Boneca Interativa Fala e Canta,Brinquedos,0.27,Rogerio Correia,Pessoa Física,Carla Oliveira,15000,2025,2025-01,194.29200000000003
+143,2025-01-14,2,8,18,6,179.9,1079.4,GO,Centro-Oeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Fernanda Santos,Pessoa Física,Henrique Ferreira,30000,2025,2025-01,291.43800000000005
+144,2025-01-16,14,16,11,4,189.9,759.6,PB,Nordeste,E-commerce,Concluída,Ração Premium Cães 15kg,Pet,0.28,Larissa Melo,Pessoa Física,Pedro Ribeiro,25000,2025,2025-01,212.68800000000002
+145,2025-01-20,13,15,19,7,129.9,909.3,AM,Norte,Loja Física,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Rafael Araujo,Pessoa Física,Olivia Barbosa,15000,2025,2025-01,245.511
+146,2025-01-20,21,20,8,2,1850.0,3700.0,RO,Norte,Televendas,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Fabio Nunes,Pessoa Física,Thiago Teixeira,25000,2025,2025-01,925.0
+147,2025-01-21,22,3,11,2,189.9,379.8,AL,Nordeste,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Tatiane Pinto,Pessoa Física,Carla Oliveira,15000,2025,2025-01,106.34400000000001
+148,2025-01-21,13,10,12,1,39.9,39.9,MA,Nordeste,Televendas,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Rafael Araujo,Pessoa Física,João Carvalho,15000,2025,2025-01,11.172
+149,2025-01-21,40,16,16,1,149.9,149.9,PB,Nordeste,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Larissa Prado,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-01,49.467000000000006
+150,2025-01-21,20,8,14,2,59.9,119.8,GO,Centro-Oeste,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Priscila Teixeira,Pessoa Jurídica,Henrique Ferreira,30000,2025,2025-01,23.96
+151,2025-01-22,25,10,4,4,3100.0,12400.0,RS,Sul,Loja Física,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Rogerio Correia,Pessoa Física,João Carvalho,15000,2025,2025-01,2728.0
+152,2025-01-24,18,18,10,1,189.9,189.9,SP,Sudeste,Representante,Concluída,Jaqueta Corta-Vento,Moda,0.35,Amanda Monteiro,Pessoa Física,Rafael Monteiro,15000,2025,2025-01,66.465
+153,2025-01-24,30,7,15,5,24.9,124.5,AM,Norte,Representante,Cancelada,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Simone Batista,Pessoa Jurídica,Gabriela Almeida,15000,2025,2025-01,24.900000000000002
+154,2025-01-27,19,3,3,9,2350.0,21150.0,AL,Nordeste,E-commerce,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Daniel Cardoso,Pessoa Jurídica,Carla Oliveira,15000,2025,2025-01,4653.0
+155,2025-01-30,5,11,19,7,129.9,909.3,PR,Sul,Representante,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Vinicius Costa,Pessoa Jurídica,Karina Gomes,20000,2025,2025-01,245.511
+156,2025-01-31,24,18,20,2,159.9,319.8,SP,Sudeste,Loja Física,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Aline Nascimento,Pessoa Física,Rafael Monteiro,15000,2025,2025-01,60.762
+157,2025-02-01,21,6,20,8,159.9,1279.2,PB,Nordeste,E-commerce,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Fabio Nunes,Pessoa Física,Felipe Pereira,20000,2025,2025-02,243.048
+158,2025-02-02,15,5,7,7,459.0,3213.0,MT,Centro-Oeste,E-commerce,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Bruno Barbosa,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-02,963.9
+159,2025-02-04,34,5,8,4,1850.0,7400.0,MT,Centro-Oeste,Televendas,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Vitoria Cunha,Pessoa Física,Eduarda Costa,15000,2025,2025-02,1850.0
+160,2025-02-05,17,18,6,6,199.9,1199.4,SP,Sudeste,Loja Física,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Caio Alves,Pessoa Jurídica,Rafael Monteiro,15000,2025,2025-02,359.82
+161,2025-02-08,27,20,15,2,24.9,49.8,SC,Sul,Representante,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Sergio Lopes,Pessoa Física,Thiago Teixeira,25000,2025,2025-02,9.96
+162,2025-02-08,24,12,13,1,49.9,49.9,RJ,Sudeste,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Aline Nascimento,Pessoa Física,Lucas Martins,25000,2025,2025-02,13.972000000000001
+163,2025-02-08,33,17,18,4,179.9,719.6,MS,Centro-Oeste,Representante,Cancelada,Boneca Interativa Fala e Canta,Brinquedos,0.27,Andre Siqueira,Pessoa Jurídica,Queila Alves,15000,2025,2025-02,194.29200000000003
+164,2025-02-10,16,9,5,7,249.9,1749.3,AL,Nordeste,E-commerce,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Vanessa Ribeiro,Pessoa Física,Isabela Rodrigues,25000,2025,2025-02,384.846
+165,2025-02-11,16,13,16,3,149.9,449.7,BA,Nordeste,Televendas,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Vanessa Ribeiro,Pessoa Física,Mariana Araujo,20000,2025,2025-02,148.401
+166,2025-02-12,14,15,10,8,189.9,1519.2,AM,Norte,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Larissa Melo,Pessoa Física,Olivia Barbosa,15000,2025,2025-02,531.72
+167,2025-02-13,33,19,10,3,189.9,569.7,PE,Nordeste,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Andre Siqueira,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-02,199.395
+168,2025-02-14,30,19,2,9,89.9,809.1,PE,Nordeste,Televendas,Concluída,Mouse Sem Fio X200,Informática,0.18,Simone Batista,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-02,145.638
+169,2025-02-15,1,12,7,5,459.0,2295.0,RJ,Sudeste,Televendas,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Marcos Silva,Pessoa Física,Lucas Martins,25000,2025,2025-02,688.5
+170,2025-02-18,15,17,18,6,179.9,1079.4,MS,Centro-Oeste,E-commerce,Cancelada,Boneca Interativa Fala e Canta,Brinquedos,0.27,Bruno Barbosa,Pessoa Jurídica,Queila Alves,15000,2025,2025-02,291.43800000000005
+171,2025-02-18,26,17,5,4,249.9,999.6,PR,Sul,E-commerce,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Cristina Dias,Pessoa Física,Queila Alves,15000,2025,2025-02,219.912
+172,2025-02-18,35,20,5,5,249.9,1249.5,SC,Sul,E-commerce,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Marcos Vinicius Rocha,Pessoa Física,Thiago Teixeira,25000,2025,2025-02,274.89
+173,2025-02-22,16,9,18,1,179.9,179.9,AL,Nordeste,Loja Física,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Vanessa Ribeiro,Pessoa Física,Isabela Rodrigues,25000,2025,2025-02,48.57300000000001
+174,2025-02-22,25,17,10,7,189.9,1329.3,MS,Centro-Oeste,Loja Física,Concluída,Jaqueta Corta-Vento,Moda,0.35,Rogerio Correia,Pessoa Física,Queila Alves,15000,2025,2025-02,465.25499999999994
+175,2025-02-24,38,8,8,1,1850.0,1850.0,GO,Centro-Oeste,Loja Física,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Beatriz Nogueira,Pessoa Jurídica,Henrique Ferreira,30000,2025,2025-02,462.5
+176,2025-02-24,31,11,7,6,459.0,2754.0,PR,Sul,E-commerce,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Karina Gomes,20000,2025,2025-02,826.1999999999999
+177,2025-02-27,22,3,17,3,219.9,659.7,AL,Nordeste,Representante,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Tatiane Pinto,Pessoa Física,Carla Oliveira,15000,2025,2025-02,217.70100000000002
+178,2025-02-27,36,17,7,9,459.0,4131.0,MS,Centro-Oeste,Televendas,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Camila Andrade,Pessoa Física,Queila Alves,15000,2025,2025-02,1239.3
+179,2025-02-28,5,15,6,8,199.9,1599.2,RS,Sul,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Vinicius Costa,Pessoa Jurídica,Olivia Barbosa,15000,2025,2025-02,479.76
+180,2025-02-28,11,15,15,1,24.9,24.9,PI,Nordeste,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Alexandre Gomes,Pessoa Física,Olivia Barbosa,15000,2025,2025-02,4.98
+181,2025-03-01,38,17,6,2,199.9,399.8,MS,Centro-Oeste,E-commerce,Cancelada,Liquidificador Turbo,Casa e Cozinha,0.3,Beatriz Nogueira,Pessoa Jurídica,Queila Alves,15000,2025,2025-03,119.94
+182,2025-03-07,22,16,7,4,459.0,1836.0,RO,Norte,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Tatiane Pinto,Pessoa Física,Pedro Ribeiro,25000,2025,2025-03,550.8
+183,2025-03-07,8,2,14,1,59.9,59.9,SP,Sudeste,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Patricia Ferreira,Pessoa Física,Bruno Santos,20000,2025,2025-03,11.98
+184,2025-03-07,17,17,7,6,459.0,2754.0,MS,Centro-Oeste,Televendas,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Caio Alves,Pessoa Jurídica,Queila Alves,15000,2025,2025-03,826.1999999999999
+185,2025-03-09,20,9,16,3,149.9,449.7,AL,Nordeste,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Isabela Rodrigues,25000,2025,2025-03,148.401
+186,2025-03-11,15,13,19,4,129.9,519.6,BA,Nordeste,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Bruno Barbosa,Pessoa Jurídica,Mariana Araujo,20000,2025,2025-03,140.292
+187,2025-03-13,26,15,9,7,329.9,2309.3,AM,Norte,Representante,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Cristina Dias,Pessoa Física,Olivia Barbosa,15000,2025,2025-03,577.325
+188,2025-03-17,8,12,14,2,59.9,119.8,RJ,Sudeste,Representante,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Patricia Ferreira,Pessoa Física,Lucas Martins,25000,2025,2025-03,23.96
+189,2025-03-17,3,13,3,8,2350.0,18800.0,PR,Sul,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Rodrigo Oliveira,Pessoa Jurídica,Mariana Araujo,20000,2025,2025-03,4136.0
+190,2025-03-18,31,8,8,5,1850.0,9250.0,RO,Norte,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Ricardo Fontoura,Pessoa Física,Henrique Ferreira,30000,2025,2025-03,2312.5
+191,2025-03-19,25,3,20,5,159.9,799.5,AL,Nordeste,E-commerce,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Rogerio Correia,Pessoa Física,Carla Oliveira,15000,2025,2025-03,151.905
+192,2025-03-19,2,8,10,1,189.9,189.9,GO,Centro-Oeste,Televendas,Concluída,Jaqueta Corta-Vento,Moda,0.35,Fernanda Santos,Pessoa Física,Henrique Ferreira,30000,2025,2025-03,66.465
+193,2025-03-20,3,19,13,6,49.9,299.4,PI,Nordeste,E-commerce,Concluída,Coleira Ajustável para Cães,Pet,0.28,Rodrigo Oliveira,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-03,83.83200000000001
+194,2025-03-22,20,20,2,4,89.9,359.6,MA,Nordeste,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Priscila Teixeira,Pessoa Jurídica,Thiago Teixeira,25000,2025,2025-03,64.72800000000001
+195,2025-03-23,14,14,17,8,219.9,1759.2,SP,Sudeste,E-commerce,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Larissa Melo,Pessoa Física,Nelson Melo,15000,2025,2025-03,580.5360000000001
+196,2025-03-25,11,3,17,2,219.9,439.8,AL,Nordeste,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Alexandre Gomes,Pessoa Física,Carla Oliveira,15000,2025,2025-03,145.13400000000001
+197,2025-03-25,5,6,16,8,149.9,1199.2,AC,Norte,Representante,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Vinicius Costa,Pessoa Jurídica,Felipe Pereira,20000,2025,2025-03,395.73600000000005
+198,2025-03-27,29,20,2,6,89.9,539.4,SE,Nordeste,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Otavio Farias,Pessoa Jurídica,Thiago Teixeira,25000,2025,2025-03,97.092
+199,2025-03-28,4,5,17,5,219.9,1099.5,MT,Centro-Oeste,Televendas,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Beatriz Souza,Pessoa Física,Eduarda Costa,15000,2025,2025-03,362.83500000000004
+200,2025-03-28,20,14,11,6,189.9,1139.4,PR,Sul,Televendas,Cancelada,Ração Premium Cães 15kg,Pet,0.28,Priscila Teixeira,Pessoa Jurídica,Nelson Melo,15000,2025,2025-03,319.03200000000004
+201,2025-03-30,22,10,1,4,4200.0,16800.0,SP,Sudeste,E-commerce,Cancelada,Notebook Pro 15,Informática,0.18,Tatiane Pinto,Pessoa Física,João Carvalho,15000,2025,2025-03,3024.0
+202,2025-04-02,13,2,11,5,189.9,949.5,SP,Sudeste,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Rafael Araujo,Pessoa Física,Bruno Santos,20000,2025,2025-04,265.86
+203,2025-04-02,36,19,6,7,199.9,1399.3,PE,Nordeste,E-commerce,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Camila Andrade,Pessoa Física,Sofia Cardoso,25000,2025,2025-04,419.78999999999996
+204,2025-04-04,6,11,10,5,189.9,949.5,PR,Sul,Representante,Concluída,Jaqueta Corta-Vento,Moda,0.35,Camila Pereira,Pessoa Física,Karina Gomes,20000,2025,2025-04,332.325
+205,2025-04-04,2,6,16,9,149.9,1349.1,AC,Norte,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Fernanda Santos,Pessoa Física,Felipe Pereira,20000,2025,2025-04,445.203
+206,2025-04-04,18,15,8,3,1850.0,5550.0,AM,Norte,Televendas,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Amanda Monteiro,Pessoa Física,Olivia Barbosa,15000,2025,2025-04,1387.5
+207,2025-04-04,12,12,5,9,249.9,2249.1,RJ,Sudeste,Loja Física,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Juliana Martins,Pessoa Jurídica,Lucas Martins,25000,2025,2025-04,494.80199999999996
+208,2025-04-11,11,3,11,8,189.9,1519.2,AL,Nordeste,Loja Física,Concluída,Ração Premium Cães 15kg,Pet,0.28,Alexandre Gomes,Pessoa Física,Carla Oliveira,15000,2025,2025-04,425.37600000000003
+209,2025-04-12,38,16,7,9,459.0,4131.0,PB,Nordeste,Loja Física,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Beatriz Nogueira,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-04,1239.3
+210,2025-04-13,6,12,13,8,49.9,399.2,RJ,Sudeste,Loja Física,Concluída,Coleira Ajustável para Cães,Pet,0.28,Camila Pereira,Pessoa Física,Lucas Martins,25000,2025,2025-04,111.77600000000001
+211,2025-04-13,10,13,11,6,189.9,1139.4,BA,Nordeste,E-commerce,Concluída,Ração Premium Cães 15kg,Pet,0.28,Renata Carvalho,Pessoa Física,Mariana Araujo,20000,2025,2025-04,319.03200000000004
+212,2025-04-13,4,6,19,4,129.9,519.6,ES,Sudeste,Loja Física,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Beatriz Souza,Pessoa Física,Felipe Pereira,20000,2025,2025-04,140.292
+213,2025-04-14,33,1,1,8,4200.0,33600.0,ES,Sudeste,Loja Física,Pendente,Notebook Pro 15,Informática,0.18,Andre Siqueira,Pessoa Jurídica,Ana Silva,15000,2025,2025-04,6048.0
+214,2025-04-14,26,13,2,4,89.9,359.6,BA,Nordeste,Loja Física,Pendente,Mouse Sem Fio X200,Informática,0.18,Cristina Dias,Pessoa Física,Mariana Araujo,20000,2025,2025-04,64.72800000000001
+215,2025-04-15,4,12,7,5,459.0,2295.0,RJ,Sudeste,Representante,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Beatriz Souza,Pessoa Física,Lucas Martins,25000,2025,2025-04,688.5
+216,2025-04-21,35,17,16,3,149.9,449.7,RN,Nordeste,Televendas,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Marcos Vinicius Rocha,Pessoa Física,Queila Alves,15000,2025,2025-04,148.401
+217,2025-04-22,7,19,11,3,189.9,569.7,PE,Nordeste,Televendas,Concluída,Ração Premium Cães 15kg,Pet,0.28,Leonardo Almeida,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-04,159.51600000000002
+218,2025-04-22,39,20,2,2,89.9,179.8,SC,Sul,Loja Física,Cancelada,Mouse Sem Fio X200,Informática,0.18,Felipe Azevedo,Pessoa Física,Thiago Teixeira,25000,2025,2025-04,32.364000000000004
+219,2025-04-23,5,19,4,9,3100.0,27900.0,PE,Nordeste,Televendas,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Vinicius Costa,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-04,6138.0
+220,2025-04-25,18,11,10,1,189.9,189.9,PR,Sul,Televendas,Concluída,Jaqueta Corta-Vento,Moda,0.35,Amanda Monteiro,Pessoa Física,Karina Gomes,20000,2025,2025-04,66.465
+221,2025-04-26,35,1,13,6,49.9,299.4,ES,Sudeste,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Marcos Vinicius Rocha,Pessoa Física,Ana Silva,15000,2025,2025-04,83.83200000000001
+222,2025-04-28,39,5,11,2,189.9,379.8,MT,Centro-Oeste,Loja Física,Concluída,Ração Premium Cães 15kg,Pet,0.28,Felipe Azevedo,Pessoa Física,Eduarda Costa,15000,2025,2025-04,106.34400000000001
+223,2025-05-03,29,12,3,9,2350.0,21150.0,RJ,Sudeste,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Lucas Martins,25000,2025,2025-05,4653.0
+224,2025-05-03,6,13,17,5,219.9,1099.5,BA,Nordeste,Televendas,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Camila Pereira,Pessoa Física,Mariana Araujo,20000,2025,2025-05,362.83500000000004
+225,2025-05-04,27,19,10,1,189.9,189.9,PE,Nordeste,Televendas,Pendente,Jaqueta Corta-Vento,Moda,0.35,Sergio Lopes,Pessoa Física,Sofia Cardoso,25000,2025,2025-05,66.465
+226,2025-05-06,12,20,6,8,199.9,1599.2,SC,Sul,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Juliana Martins,Pessoa Jurídica,Thiago Teixeira,25000,2025,2025-05,479.76
+227,2025-05-06,32,18,6,9,199.9,1799.1,SP,Sudeste,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Luana Peixoto,Pessoa Física,Rafael Monteiro,15000,2025,2025-05,539.7299999999999
+228,2025-05-14,21,9,3,6,2350.0,14100.0,AL,Nordeste,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Isabela Rodrigues,25000,2025,2025-05,3102.0
+229,2025-05-15,40,6,10,2,189.9,379.8,AC,Norte,Televendas,Concluída,Jaqueta Corta-Vento,Moda,0.35,Larissa Prado,Pessoa Jurídica,Felipe Pereira,20000,2025,2025-05,132.93
+230,2025-05-19,27,6,3,9,2350.0,21150.0,AM,Norte,E-commerce,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Sergio Lopes,Pessoa Física,Felipe Pereira,20000,2025,2025-05,4653.0
+231,2025-05-21,26,5,20,2,159.9,319.8,MT,Centro-Oeste,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Cristina Dias,Pessoa Física,Eduarda Costa,15000,2025,2025-05,60.762
+232,2025-05-23,19,5,6,1,199.9,199.9,MT,Centro-Oeste,Representante,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Daniel Cardoso,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-05,59.97
+233,2025-05-25,5,19,5,9,249.9,2249.1,PE,Nordeste,Televendas,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Vinicius Costa,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-05,494.80199999999996
+234,2025-05-27,33,18,16,5,149.9,749.5,SP,Sudeste,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Andre Siqueira,Pessoa Jurídica,Rafael Monteiro,15000,2025,2025-05,247.335
+235,2025-05-27,26,12,4,4,3100.0,12400.0,RJ,Sudeste,Loja Física,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Cristina Dias,Pessoa Física,Lucas Martins,25000,2025,2025-05,2728.0
+236,2025-05-29,25,15,13,7,49.9,349.3,AM,Norte,Loja Física,Concluída,Coleira Ajustável para Cães,Pet,0.28,Rogerio Correia,Pessoa Física,Olivia Barbosa,15000,2025,2025-05,97.80400000000002
+237,2025-05-29,20,5,13,3,49.9,149.7,MT,Centro-Oeste,Loja Física,Concluída,Coleira Ajustável para Cães,Pet,0.28,Priscila Teixeira,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-05,41.916000000000004
+238,2025-05-31,10,8,4,3,3100.0,9300.0,GO,Centro-Oeste,Loja Física,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Renata Carvalho,Pessoa Física,Henrique Ferreira,30000,2025,2025-05,2046.0
+239,2025-05-31,37,15,15,5,24.9,124.5,AM,Norte,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Diego Marques,Pessoa Jurídica,Olivia Barbosa,15000,2025,2025-05,24.900000000000002
+240,2025-05-31,26,11,10,8,189.9,1519.2,RS,Sul,Loja Física,Concluída,Jaqueta Corta-Vento,Moda,0.35,Cristina Dias,Pessoa Física,Karina Gomes,20000,2025,2025-05,531.72
+241,2025-06-04,12,5,16,6,149.9,899.4,AC,Norte,Televendas,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Juliana Martins,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-06,296.802
+242,2025-06-07,30,10,17,7,219.9,1539.3,RS,Sul,E-commerce,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Simone Batista,Pessoa Jurídica,João Carvalho,15000,2025,2025-06,507.969
+243,2025-06-08,14,19,12,1,39.9,39.9,PE,Nordeste,Representante,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Larissa Melo,Pessoa Física,Sofia Cardoso,25000,2025,2025-06,11.172
+244,2025-06-09,32,17,11,7,189.9,1329.3,MS,Centro-Oeste,E-commerce,Concluída,Ração Premium Cães 15kg,Pet,0.28,Luana Peixoto,Pessoa Física,Queila Alves,15000,2025,2025-06,372.204
+245,2025-06-09,15,9,19,1,129.9,129.9,AL,Nordeste,E-commerce,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Bruno Barbosa,Pessoa Jurídica,Isabela Rodrigues,25000,2025,2025-06,35.073
+246,2025-06-12,16,13,3,6,2350.0,14100.0,BA,Nordeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Vanessa Ribeiro,Pessoa Física,Mariana Araujo,20000,2025,2025-06,3102.0
+247,2025-06-12,4,16,19,3,129.9,389.7,PB,Nordeste,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Beatriz Souza,Pessoa Física,Pedro Ribeiro,25000,2025,2025-06,105.21900000000001
+248,2025-06-13,36,11,9,9,329.9,2969.1,PR,Sul,E-commerce,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Camila Andrade,Pessoa Física,Karina Gomes,20000,2025,2025-06,742.275
+249,2025-06-14,37,3,5,6,249.9,1499.4,AL,Nordeste,Representante,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Carla Oliveira,15000,2025,2025-06,329.868
+250,2025-06-14,39,5,10,6,189.9,1139.4,MT,Centro-Oeste,Loja Física,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Felipe Azevedo,Pessoa Física,Eduarda Costa,15000,2025,2025-06,398.79
+251,2025-06-16,5,12,9,4,329.9,1319.6,RJ,Sudeste,Representante,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Vinicius Costa,Pessoa Jurídica,Lucas Martins,25000,2025,2025-06,329.9
+252,2025-06-18,31,19,8,8,1850.0,14800.0,PE,Nordeste,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Ricardo Fontoura,Pessoa Física,Sofia Cardoso,25000,2025,2025-06,3700.0
+253,2025-06-20,33,5,11,6,189.9,1139.4,MT,Centro-Oeste,Televendas,Pendente,Ração Premium Cães 15kg,Pet,0.28,Andre Siqueira,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-06,319.03200000000004
+254,2025-06-22,14,19,16,2,149.9,299.8,RN,Nordeste,E-commerce,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Larissa Melo,Pessoa Física,Sofia Cardoso,25000,2025,2025-06,98.93400000000001
+255,2025-06-23,4,6,15,7,24.9,174.3,AC,Norte,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Beatriz Souza,Pessoa Física,Felipe Pereira,20000,2025,2025-06,34.86000000000001
+256,2025-06-24,6,19,4,9,3100.0,27900.0,PE,Nordeste,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Camila Pereira,Pessoa Física,Sofia Cardoso,25000,2025,2025-06,6138.0
+257,2025-06-25,18,4,5,2,249.9,499.8,MG,Sudeste,Representante,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Amanda Monteiro,Pessoa Física,Diego Souza,15000,2025,2025-06,109.956
+258,2025-06-27,1,7,19,2,129.9,259.8,AL,Nordeste,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Marcos Silva,Pessoa Física,Gabriela Almeida,15000,2025,2025-06,70.146
+259,2025-06-27,15,3,5,1,249.9,249.9,AL,Nordeste,Representante,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Bruno Barbosa,Pessoa Jurídica,Carla Oliveira,15000,2025,2025-06,54.978
+260,2025-06-29,22,8,2,8,89.9,719.2,PB,Nordeste,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Tatiane Pinto,Pessoa Física,Henrique Ferreira,30000,2025,2025-06,129.45600000000002
+261,2025-06-30,8,1,8,6,1850.0,11100.0,ES,Sudeste,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Patricia Ferreira,Pessoa Física,Ana Silva,15000,2025,2025-06,2775.0
+262,2025-07-01,40,6,15,6,24.9,149.4,AC,Norte,Loja Física,Cancelada,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Larissa Prado,Pessoa Jurídica,Felipe Pereira,20000,2025,2025-07,29.880000000000003
+263,2025-07-01,22,20,7,3,459.0,1377.0,SC,Sul,Loja Física,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Tatiane Pinto,Pessoa Física,Thiago Teixeira,25000,2025,2025-07,413.09999999999997
+264,2025-07-02,10,9,3,1,2350.0,2350.0,DF,Centro-Oeste,Representante,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Renata Carvalho,Pessoa Física,Isabela Rodrigues,25000,2025,2025-07,517.0
+265,2025-07-04,13,5,8,8,1850.0,14800.0,MT,Centro-Oeste,Televendas,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Rafael Araujo,Pessoa Física,Eduarda Costa,15000,2025,2025-07,3700.0
+266,2025-07-05,38,8,17,8,219.9,1759.2,GO,Centro-Oeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Beatriz Nogueira,Pessoa Jurídica,Henrique Ferreira,30000,2025,2025-07,580.5360000000001
+267,2025-07-13,28,6,12,4,39.9,159.6,BA,Nordeste,Televendas,Cancelada,Areia Higiênica para Gatos 4kg,Pet,0.28,Debora Cavalcanti,Pessoa Física,Felipe Pereira,20000,2025,2025-07,44.688
+268,2025-07-16,7,15,15,6,24.9,149.4,AM,Norte,E-commerce,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Leonardo Almeida,Pessoa Jurídica,Olivia Barbosa,15000,2025,2025-07,29.880000000000003
+269,2025-07-16,8,14,15,1,24.9,24.9,PR,Sul,Televendas,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Patricia Ferreira,Pessoa Física,Nelson Melo,15000,2025,2025-07,4.98
+270,2025-07-17,3,2,2,3,89.9,269.7,SP,Sudeste,Representante,Pendente,Mouse Sem Fio X200,Informática,0.18,Rodrigo Oliveira,Pessoa Jurídica,Bruno Santos,20000,2025,2025-07,48.546
+271,2025-07-18,21,16,17,7,219.9,1539.3,PB,Nordeste,Loja Física,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Fabio Nunes,Pessoa Física,Pedro Ribeiro,25000,2025,2025-07,507.969
+272,2025-07-20,11,12,12,5,39.9,199.5,RJ,Sudeste,Televendas,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Alexandre Gomes,Pessoa Física,Lucas Martins,25000,2025,2025-07,55.86000000000001
+273,2025-07-21,23,10,9,6,329.9,1979.4,RS,Sul,Representante,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Marcelo Moreira,Pessoa Jurídica,João Carvalho,15000,2025,2025-07,494.85
+274,2025-07-21,12,11,2,1,89.9,89.9,PR,Sul,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Juliana Martins,Pessoa Jurídica,Karina Gomes,20000,2025,2025-07,16.182000000000002
+275,2025-07-24,35,14,18,7,179.9,1259.3,AL,Nordeste,Representante,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Marcos Vinicius Rocha,Pessoa Física,Nelson Melo,15000,2025,2025-07,340.011
+276,2025-07-28,4,4,17,3,219.9,659.7,MG,Sudeste,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Beatriz Souza,Pessoa Física,Diego Souza,15000,2025,2025-07,217.70100000000002
+277,2025-07-29,34,19,20,3,159.9,479.7,PE,Nordeste,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Vitoria Cunha,Pessoa Física,Sofia Cardoso,25000,2025,2025-07,91.143
+278,2025-08-02,5,16,2,5,89.9,449.5,PB,Nordeste,Loja Física,Cancelada,Mouse Sem Fio X200,Informática,0.18,Vinicius Costa,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-08,80.91
+279,2025-08-02,28,5,8,5,1850.0,9250.0,MT,Centro-Oeste,Televendas,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Debora Cavalcanti,Pessoa Física,Eduarda Costa,15000,2025,2025-08,2312.5
+280,2025-08-02,12,9,13,3,49.9,149.7,AL,Nordeste,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Juliana Martins,Pessoa Jurídica,Isabela Rodrigues,25000,2025,2025-08,41.916000000000004
+281,2025-08-03,25,17,15,9,24.9,224.1,MS,Centro-Oeste,E-commerce,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Rogerio Correia,Pessoa Física,Queila Alves,15000,2025,2025-08,44.82
+282,2025-08-04,19,18,12,7,39.9,279.3,SP,Sudeste,Representante,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Daniel Cardoso,Pessoa Jurídica,Rafael Monteiro,15000,2025,2025-08,78.20400000000001
+283,2025-08-05,37,16,11,1,189.9,189.9,PB,Nordeste,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Diego Marques,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-08,53.172000000000004
+284,2025-08-05,27,4,17,2,219.9,439.8,MG,Sudeste,E-commerce,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Sergio Lopes,Pessoa Física,Diego Souza,15000,2025,2025-08,145.13400000000001
+285,2025-08-06,31,3,1,2,4200.0,8400.0,AL,Nordeste,Loja Física,Concluída,Notebook Pro 15,Informática,0.18,Ricardo Fontoura,Pessoa Física,Carla Oliveira,15000,2025,2025-08,1512.0
+286,2025-08-06,32,2,3,1,2350.0,2350.0,SP,Sudeste,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Luana Peixoto,Pessoa Física,Bruno Santos,20000,2025,2025-08,517.0
+287,2025-08-06,32,3,5,7,249.9,1749.3,AL,Nordeste,Representante,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Luana Peixoto,Pessoa Física,Carla Oliveira,15000,2025,2025-08,384.846
+288,2025-08-08,20,10,7,8,459.0,3672.0,RS,Sul,Televendas,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Priscila Teixeira,Pessoa Jurídica,João Carvalho,15000,2025,2025-08,1101.6
+289,2025-08-10,12,4,1,3,4200.0,12600.0,MG,Sudeste,Loja Física,Cancelada,Notebook Pro 15,Informática,0.18,Juliana Martins,Pessoa Jurídica,Diego Souza,15000,2025,2025-08,2268.0
+290,2025-08-11,21,12,13,3,49.9,149.7,RJ,Sudeste,E-commerce,Concluída,Coleira Ajustável para Cães,Pet,0.28,Fabio Nunes,Pessoa Física,Lucas Martins,25000,2025,2025-08,41.916000000000004
+291,2025-08-11,20,11,5,3,249.9,749.7,PR,Sul,Representante,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Priscila Teixeira,Pessoa Jurídica,Karina Gomes,20000,2025,2025-08,164.934
+292,2025-08-14,7,1,3,6,2350.0,14100.0,ES,Sudeste,Televendas,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Leonardo Almeida,Pessoa Jurídica,Ana Silva,15000,2025,2025-08,3102.0
+293,2025-08-14,11,2,4,6,3100.0,18600.0,SP,Sudeste,Loja Física,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Alexandre Gomes,Pessoa Física,Bruno Santos,20000,2025,2025-08,4092.0
+294,2025-08-15,39,2,8,1,1850.0,1850.0,SP,Sudeste,Loja Física,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Felipe Azevedo,Pessoa Física,Bruno Santos,20000,2025,2025-08,462.5
+295,2025-08-21,33,19,8,3,1850.0,5550.0,PE,Nordeste,E-commerce,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Andre Siqueira,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-08,1387.5
+296,2025-08-22,21,8,10,3,189.9,569.7,DF,Centro-Oeste,Loja Física,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Fabio Nunes,Pessoa Física,Henrique Ferreira,30000,2025,2025-08,199.395
+297,2025-08-24,39,17,14,2,59.9,119.8,MS,Centro-Oeste,Loja Física,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Felipe Azevedo,Pessoa Física,Queila Alves,15000,2025,2025-08,23.96
+298,2025-08-24,4,19,16,3,149.9,449.7,PE,Nordeste,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Beatriz Souza,Pessoa Física,Sofia Cardoso,25000,2025,2025-08,148.401
+299,2025-08-25,13,6,20,7,159.9,1119.3,DF,Centro-Oeste,Televendas,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Rafael Araujo,Pessoa Física,Felipe Pereira,20000,2025,2025-08,212.667
+300,2025-08-26,27,4,14,3,59.9,179.7,MG,Sudeste,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Sergio Lopes,Pessoa Física,Diego Souza,15000,2025,2025-08,35.94
+301,2025-08-27,32,5,2,6,89.9,539.4,MT,Centro-Oeste,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Luana Peixoto,Pessoa Física,Eduarda Costa,15000,2025,2025-08,97.092
+302,2025-08-30,5,1,3,4,2350.0,9400.0,RN,Nordeste,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Vinicius Costa,Pessoa Jurídica,Ana Silva,15000,2025,2025-08,2068.0
+303,2025-08-31,27,18,17,3,219.9,659.7,SP,Sudeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Sergio Lopes,Pessoa Física,Rafael Monteiro,15000,2025,2025-08,217.70100000000002
+304,2025-08-31,30,8,13,3,49.9,149.7,GO,Centro-Oeste,Representante,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Simone Batista,Pessoa Jurídica,Henrique Ferreira,30000,2025,2025-08,41.916000000000004
+305,2025-09-02,15,13,20,1,159.9,159.9,BA,Nordeste,Televendas,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Bruno Barbosa,Pessoa Jurídica,Mariana Araujo,20000,2025,2025-09,30.381
+306,2025-09-06,36,20,12,4,39.9,159.6,SC,Sul,Loja Física,Cancelada,Areia Higiênica para Gatos 4kg,Pet,0.28,Camila Andrade,Pessoa Física,Thiago Teixeira,25000,2025,2025-09,44.688
+307,2025-09-06,22,12,15,5,24.9,124.5,AM,Norte,Televendas,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Tatiane Pinto,Pessoa Física,Lucas Martins,25000,2025,2025-09,24.900000000000002
+308,2025-09-08,35,2,6,7,199.9,1399.3,RR,Norte,E-commerce,Cancelada,Liquidificador Turbo,Casa e Cozinha,0.3,Marcos Vinicius Rocha,Pessoa Física,Bruno Santos,20000,2025,2025-09,419.78999999999996
+309,2025-09-10,24,20,8,4,1850.0,7400.0,SE,Nordeste,Loja Física,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Aline Nascimento,Pessoa Física,Thiago Teixeira,25000,2025,2025-09,1850.0
+310,2025-09-12,29,2,12,7,39.9,279.3,SP,Sudeste,E-commerce,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Otavio Farias,Pessoa Jurídica,Bruno Santos,20000,2025,2025-09,78.20400000000001
+311,2025-09-12,9,18,19,3,129.9,389.7,SP,Sudeste,Loja Física,Cancelada,Pista de Carrinhos Radical,Brinquedos,0.27,Gustavo Rodrigues,Pessoa Física,Rafael Monteiro,15000,2025,2025-09,105.21900000000001
+312,2025-09-13,24,17,6,1,199.9,199.9,MS,Centro-Oeste,Representante,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Aline Nascimento,Pessoa Física,Queila Alves,15000,2025,2025-09,59.97
+313,2025-09-13,12,12,13,6,49.9,299.4,RJ,Sudeste,E-commerce,Concluída,Coleira Ajustável para Cães,Pet,0.28,Juliana Martins,Pessoa Jurídica,Lucas Martins,25000,2025,2025-09,83.83200000000001
+314,2025-09-14,29,13,4,9,3100.0,27900.0,BA,Nordeste,Loja Física,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Mariana Araujo,20000,2025,2025-09,6138.0
+315,2025-09-15,7,5,10,1,189.9,189.9,MA,Nordeste,Representante,Concluída,Jaqueta Corta-Vento,Moda,0.35,Leonardo Almeida,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-09,66.465
+316,2025-09-15,14,3,4,3,3100.0,9300.0,AL,Nordeste,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Larissa Melo,Pessoa Física,Carla Oliveira,15000,2025,2025-09,2046.0
+317,2025-09-15,19,9,15,1,24.9,24.9,AL,Nordeste,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Daniel Cardoso,Pessoa Jurídica,Isabela Rodrigues,25000,2025,2025-09,4.98
+318,2025-09-16,23,17,10,3,189.9,569.7,GO,Centro-Oeste,Loja Física,Concluída,Jaqueta Corta-Vento,Moda,0.35,Marcelo Moreira,Pessoa Jurídica,Queila Alves,15000,2025,2025-09,199.395
+319,2025-09-20,21,11,5,8,249.9,1999.2,PR,Sul,Representante,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Karina Gomes,20000,2025,2025-09,439.824
+320,2025-09-20,35,3,17,3,219.9,659.7,AL,Nordeste,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Marcos Vinicius Rocha,Pessoa Física,Carla Oliveira,15000,2025,2025-09,217.70100000000002
+321,2025-09-20,6,17,15,9,24.9,224.1,MS,Centro-Oeste,E-commerce,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Camila Pereira,Pessoa Física,Queila Alves,15000,2025,2025-09,44.82
+322,2025-09-22,15,6,15,2,24.9,49.8,AC,Norte,E-commerce,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Bruno Barbosa,Pessoa Jurídica,Felipe Pereira,20000,2025,2025-09,9.96
+323,2025-09-23,11,3,16,7,149.9,1049.3,AL,Nordeste,Televendas,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Alexandre Gomes,Pessoa Física,Carla Oliveira,15000,2025,2025-09,346.269
+324,2025-09-24,39,11,19,1,129.9,129.9,AC,Norte,E-commerce,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Felipe Azevedo,Pessoa Física,Karina Gomes,20000,2025,2025-09,35.073
+325,2025-09-24,31,7,7,9,459.0,4131.0,AL,Nordeste,Televendas,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Gabriela Almeida,15000,2025,2025-09,1239.3
+326,2025-09-26,14,7,2,6,89.9,539.4,AL,Nordeste,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Larissa Melo,Pessoa Física,Gabriela Almeida,15000,2025,2025-09,97.092
+327,2025-09-26,16,16,13,2,49.9,99.8,PB,Nordeste,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Vanessa Ribeiro,Pessoa Física,Pedro Ribeiro,25000,2025,2025-09,27.944000000000003
+328,2025-09-26,35,14,19,4,129.9,519.6,PR,Sul,Representante,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Marcos Vinicius Rocha,Pessoa Física,Nelson Melo,15000,2025,2025-09,140.292
+329,2025-09-26,11,4,5,1,249.9,249.9,RR,Norte,E-commerce,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Alexandre Gomes,Pessoa Física,Diego Souza,15000,2025,2025-09,54.978
+330,2025-09-28,6,2,3,7,2350.0,16450.0,SP,Sudeste,Representante,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Camila Pereira,Pessoa Física,Bruno Santos,20000,2025,2025-09,3619.0
+331,2025-09-29,31,16,7,5,459.0,2295.0,PB,Nordeste,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Pedro Ribeiro,25000,2025,2025-09,688.5
+332,2025-10-01,22,14,9,9,329.9,2969.1,PR,Sul,E-commerce,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Tatiane Pinto,Pessoa Física,Nelson Melo,15000,2025,2025-10,742.275
+333,2025-10-12,4,4,14,4,59.9,239.6,MA,Nordeste,Representante,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Beatriz Souza,Pessoa Física,Diego Souza,15000,2025,2025-10,47.92
+334,2025-10-12,17,4,1,1,4200.0,4200.0,MG,Sudeste,Representante,Concluída,Notebook Pro 15,Informática,0.18,Caio Alves,Pessoa Jurídica,Diego Souza,15000,2025,2025-10,756.0
+335,2025-10-13,9,17,19,1,129.9,129.9,MS,Centro-Oeste,Loja Física,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Gustavo Rodrigues,Pessoa Física,Queila Alves,15000,2025,2025-10,35.073
+336,2025-10-16,29,20,1,2,4200.0,8400.0,SC,Sul,Loja Física,Concluída,Notebook Pro 15,Informática,0.18,Otavio Farias,Pessoa Jurídica,Thiago Teixeira,25000,2025,2025-10,1512.0
+337,2025-10-16,32,15,6,6,199.9,1199.4,AM,Norte,Representante,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Luana Peixoto,Pessoa Física,Olivia Barbosa,15000,2025,2025-10,359.82
+338,2025-10-17,13,1,1,4,4200.0,16800.0,ES,Sudeste,Televendas,Concluída,Notebook Pro 15,Informática,0.18,Rafael Araujo,Pessoa Física,Ana Silva,15000,2025,2025-10,3024.0
+339,2025-10-18,35,10,10,3,189.9,569.7,RS,Sul,Loja Física,Concluída,Jaqueta Corta-Vento,Moda,0.35,Marcos Vinicius Rocha,Pessoa Física,João Carvalho,15000,2025,2025-10,199.395
+340,2025-10-19,33,5,12,1,39.9,39.9,MT,Centro-Oeste,Televendas,Cancelada,Areia Higiênica para Gatos 4kg,Pet,0.28,Andre Siqueira,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-10,11.172
+341,2025-10-20,24,14,18,8,179.9,1439.2,PR,Sul,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Aline Nascimento,Pessoa Física,Nelson Melo,15000,2025,2025-10,388.58400000000006
+342,2025-10-21,16,10,2,8,89.9,719.2,RS,Sul,E-commerce,Cancelada,Mouse Sem Fio X200,Informática,0.18,Vanessa Ribeiro,Pessoa Física,João Carvalho,15000,2025,2025-10,129.45600000000002
+343,2025-10-21,1,10,14,2,59.9,119.8,RS,Sul,Televendas,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Marcos Silva,Pessoa Física,João Carvalho,15000,2025,2025-10,23.96
+344,2025-10-22,34,19,19,4,129.9,519.6,MG,Sudeste,Televendas,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Vitoria Cunha,Pessoa Física,Sofia Cardoso,25000,2025,2025-10,140.292
+345,2025-10-23,29,7,20,5,159.9,799.5,AL,Nordeste,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Otavio Farias,Pessoa Jurídica,Gabriela Almeida,15000,2025,2025-10,151.905
+346,2025-10-24,16,2,8,2,1850.0,3700.0,PA,Norte,Representante,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Vanessa Ribeiro,Pessoa Física,Bruno Santos,20000,2025,2025-10,925.0
+347,2025-10-24,21,11,15,5,24.9,124.5,PR,Sul,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Fabio Nunes,Pessoa Física,Karina Gomes,20000,2025,2025-10,24.900000000000002
+348,2025-10-24,35,9,10,5,189.9,949.5,AL,Nordeste,E-commerce,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Marcos Vinicius Rocha,Pessoa Física,Isabela Rodrigues,25000,2025,2025-10,332.325
+349,2025-10-25,17,10,11,2,189.9,379.8,RS,Sul,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Caio Alves,Pessoa Jurídica,João Carvalho,15000,2025,2025-10,106.34400000000001
+350,2025-10-25,26,12,2,7,89.9,629.3,RJ,Sudeste,Loja Física,Concluída,Mouse Sem Fio X200,Informática,0.18,Cristina Dias,Pessoa Física,Lucas Martins,25000,2025,2025-10,113.27399999999999
+351,2025-10-25,34,12,2,9,89.9,809.1,RJ,Sudeste,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Vitoria Cunha,Pessoa Física,Lucas Martins,25000,2025,2025-10,145.638
+352,2025-10-31,23,13,17,1,219.9,219.9,BA,Nordeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Marcelo Moreira,Pessoa Jurídica,Mariana Araujo,20000,2025,2025-10,72.56700000000001
+353,2025-11-02,25,12,9,1,329.9,329.9,RJ,Sudeste,E-commerce,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Rogerio Correia,Pessoa Física,Lucas Martins,25000,2025,2025-11,82.475
+354,2025-11-04,33,18,17,1,219.9,219.9,SP,Sudeste,Loja Física,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Andre Siqueira,Pessoa Jurídica,Rafael Monteiro,15000,2025,2025-11,72.56700000000001
+355,2025-11-04,16,7,19,6,129.9,779.4,MS,Centro-Oeste,Representante,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Vanessa Ribeiro,Pessoa Física,Gabriela Almeida,15000,2025,2025-11,210.43800000000002
+356,2025-11-06,19,2,1,5,4200.0,21000.0,SP,Sudeste,E-commerce,Concluída,Notebook Pro 15,Informática,0.18,Daniel Cardoso,Pessoa Jurídica,Bruno Santos,20000,2025,2025-11,3780.0
+357,2025-11-08,28,19,13,9,49.9,449.1,PE,Nordeste,Televendas,Concluída,Coleira Ajustável para Cães,Pet,0.28,Debora Cavalcanti,Pessoa Física,Sofia Cardoso,25000,2025,2025-11,125.74800000000002
+358,2025-11-08,3,19,4,4,3100.0,12400.0,PE,Nordeste,Televendas,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Rodrigo Oliveira,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-11,2728.0
+359,2025-11-08,17,20,10,5,189.9,949.5,SC,Sul,Representante,Concluída,Jaqueta Corta-Vento,Moda,0.35,Caio Alves,Pessoa Jurídica,Thiago Teixeira,25000,2025,2025-11,332.325
+360,2025-11-09,35,20,2,1,89.9,89.9,SC,Sul,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Marcos Vinicius Rocha,Pessoa Física,Thiago Teixeira,25000,2025,2025-11,16.182000000000002
+361,2025-11-10,20,9,16,2,149.9,299.8,AL,Nordeste,Loja Física,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Isabela Rodrigues,25000,2025,2025-11,98.93400000000001
+362,2025-11-11,11,15,9,3,329.9,989.7,AM,Norte,Televendas,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Alexandre Gomes,Pessoa Física,Olivia Barbosa,15000,2025,2025-11,247.425
+363,2025-11-12,35,2,15,9,24.9,224.1,SP,Sudeste,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Marcos Vinicius Rocha,Pessoa Física,Bruno Santos,20000,2025,2025-11,44.82
+364,2025-11-12,21,14,4,2,3100.0,6200.0,AP,Norte,E-commerce,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Nelson Melo,15000,2025,2025-11,1364.0
+365,2025-11-13,35,11,13,3,49.9,149.7,PR,Sul,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Marcos Vinicius Rocha,Pessoa Física,Karina Gomes,20000,2025,2025-11,41.916000000000004
+366,2025-11-13,14,14,7,8,459.0,3672.0,PR,Sul,Televendas,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Larissa Melo,Pessoa Física,Nelson Melo,15000,2025,2025-11,1101.6
+367,2025-11-14,26,15,13,6,49.9,299.4,SE,Nordeste,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Cristina Dias,Pessoa Física,Olivia Barbosa,15000,2025,2025-11,83.83200000000001
+368,2025-11-14,16,6,11,6,189.9,1139.4,AC,Norte,Loja Física,Cancelada,Ração Premium Cães 15kg,Pet,0.28,Vanessa Ribeiro,Pessoa Física,Felipe Pereira,20000,2025,2025-11,319.03200000000004
+369,2025-11-16,4,19,19,2,129.9,259.8,PE,Nordeste,Loja Física,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Beatriz Souza,Pessoa Física,Sofia Cardoso,25000,2025,2025-11,70.146
+370,2025-11-18,9,20,3,2,2350.0,4700.0,SC,Sul,Representante,Pendente,Smartphone Galaxy A5,Eletrônicos,0.22,Gustavo Rodrigues,Pessoa Física,Thiago Teixeira,25000,2025,2025-11,1034.0
+371,2025-11-18,33,16,14,8,59.9,479.2,PB,Nordeste,Representante,Cancelada,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Andre Siqueira,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-11,95.84
+372,2025-11-19,4,12,17,2,219.9,439.8,RJ,Sudeste,Representante,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Beatriz Souza,Pessoa Física,Lucas Martins,25000,2025,2025-11,145.13400000000001
+373,2025-11-19,32,18,17,2,219.9,439.8,SP,Sudeste,Televendas,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Luana Peixoto,Pessoa Física,Rafael Monteiro,15000,2025,2025-11,145.13400000000001
+374,2025-11-19,7,5,4,3,3100.0,9300.0,MT,Centro-Oeste,Televendas,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Leonardo Almeida,Pessoa Jurídica,Eduarda Costa,15000,2025,2025-11,2046.0
+375,2025-11-21,22,5,5,1,249.9,249.9,MT,Centro-Oeste,Representante,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Tatiane Pinto,Pessoa Física,Eduarda Costa,15000,2025,2025-11,54.978
+376,2025-11-21,39,16,7,2,459.0,918.0,PB,Nordeste,Loja Física,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Felipe Azevedo,Pessoa Física,Pedro Ribeiro,25000,2025,2025-11,275.4
+377,2025-11-22,34,3,14,9,59.9,539.1,AL,Nordeste,Televendas,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Vitoria Cunha,Pessoa Física,Carla Oliveira,15000,2025,2025-11,107.82000000000001
+378,2025-11-22,30,16,6,3,199.9,599.7,PB,Nordeste,Representante,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Simone Batista,Pessoa Jurídica,Pedro Ribeiro,25000,2025,2025-11,179.91
+379,2025-11-22,20,7,17,9,219.9,1979.1,AL,Nordeste,Representante,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Gabriela Almeida,15000,2025,2025-11,653.103
+380,2025-11-22,32,5,3,9,2350.0,21150.0,MT,Centro-Oeste,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Luana Peixoto,Pessoa Física,Eduarda Costa,15000,2025,2025-11,4653.0
+381,2025-11-24,10,1,9,9,329.9,2969.1,MT,Centro-Oeste,Representante,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Renata Carvalho,Pessoa Física,Ana Silva,15000,2025,2025-11,742.275
+382,2025-11-26,39,5,9,1,329.9,329.9,MT,Centro-Oeste,Televendas,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Felipe Azevedo,Pessoa Física,Eduarda Costa,15000,2025,2025-11,82.475
+383,2025-11-26,25,12,6,3,199.9,599.7,RJ,Sudeste,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Rogerio Correia,Pessoa Física,Lucas Martins,25000,2025,2025-11,179.91
+384,2025-11-26,39,13,11,3,189.9,569.7,BA,Nordeste,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Felipe Azevedo,Pessoa Física,Mariana Araujo,20000,2025,2025-11,159.51600000000002
+385,2025-12-01,24,11,5,7,249.9,1749.3,MT,Centro-Oeste,Representante,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Aline Nascimento,Pessoa Física,Karina Gomes,20000,2025,2025-12,384.846
+386,2025-12-01,23,19,19,3,129.9,389.7,PE,Nordeste,Loja Física,Cancelada,Pista de Carrinhos Radical,Brinquedos,0.27,Marcelo Moreira,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-12,105.21900000000001
+387,2025-12-02,40,20,20,4,159.9,639.6,SC,Sul,Representante,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Larissa Prado,Pessoa Jurídica,Thiago Teixeira,25000,2025,2025-12,121.524
+388,2025-12-03,8,5,12,5,39.9,199.5,MT,Centro-Oeste,Loja Física,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Patricia Ferreira,Pessoa Física,Eduarda Costa,15000,2025,2025-12,55.86000000000001
+389,2025-12-03,22,20,20,8,159.9,1279.2,SC,Sul,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Tatiane Pinto,Pessoa Física,Thiago Teixeira,25000,2025,2025-12,243.048
+390,2025-12-04,34,2,8,4,1850.0,7400.0,RJ,Sudeste,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Vitoria Cunha,Pessoa Física,Bruno Santos,20000,2025,2025-12,1850.0
+391,2025-12-05,28,3,8,8,1850.0,14800.0,AC,Norte,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Debora Cavalcanti,Pessoa Física,Carla Oliveira,15000,2025,2025-12,3700.0
+392,2025-12-06,14,7,5,1,249.9,249.9,AL,Nordeste,Representante,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Larissa Melo,Pessoa Física,Gabriela Almeida,15000,2025,2025-12,54.978
+393,2025-12-08,23,17,10,2,189.9,379.8,MS,Centro-Oeste,Televendas,Concluída,Jaqueta Corta-Vento,Moda,0.35,Marcelo Moreira,Pessoa Jurídica,Queila Alves,15000,2025,2025-12,132.93
+394,2025-12-10,19,19,9,9,329.9,2969.1,MG,Sudeste,E-commerce,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Daniel Cardoso,Pessoa Jurídica,Sofia Cardoso,25000,2025,2025-12,742.275
+395,2025-12-10,11,9,3,6,2350.0,14100.0,AL,Nordeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Alexandre Gomes,Pessoa Física,Isabela Rodrigues,25000,2025,2025-12,3102.0
+396,2025-12-11,35,12,9,8,329.9,2639.2,RJ,Sudeste,Loja Física,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Marcos Vinicius Rocha,Pessoa Física,Lucas Martins,25000,2025,2025-12,659.8
+397,2025-12-11,38,1,3,8,2350.0,18800.0,ES,Sudeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Beatriz Nogueira,Pessoa Jurídica,Ana Silva,15000,2025,2025-12,4136.0
+398,2025-12-11,9,8,9,2,329.9,659.8,GO,Centro-Oeste,Televendas,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Gustavo Rodrigues,Pessoa Física,Henrique Ferreira,30000,2025,2025-12,164.95
+399,2025-12-11,27,19,15,3,24.9,74.7,PE,Nordeste,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Sergio Lopes,Pessoa Física,Sofia Cardoso,25000,2025,2025-12,14.940000000000001
+400,2025-12-13,24,11,18,6,179.9,1079.4,PR,Sul,Loja Física,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Aline Nascimento,Pessoa Física,Karina Gomes,20000,2025,2025-12,291.43800000000005
+401,2025-12-13,1,2,18,4,179.9,719.6,SP,Sudeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Marcos Silva,Pessoa Física,Bruno Santos,20000,2025,2025-12,194.29200000000003
+402,2025-12-14,9,16,3,4,2350.0,9400.0,PB,Nordeste,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Gustavo Rodrigues,Pessoa Física,Pedro Ribeiro,25000,2025,2025-12,2068.0
+403,2025-12-15,32,10,16,1,149.9,149.9,RS,Sul,Representante,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Luana Peixoto,Pessoa Física,João Carvalho,15000,2025,2025-12,49.467000000000006
+404,2025-12-15,21,9,14,2,59.9,119.8,AL,Nordeste,Loja Física,Cancelada,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Fabio Nunes,Pessoa Física,Isabela Rodrigues,25000,2025,2025-12,23.96
+405,2025-12-15,34,20,17,6,219.9,1319.4,SC,Sul,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Vitoria Cunha,Pessoa Física,Thiago Teixeira,25000,2025,2025-12,435.40200000000004
+406,2025-12-16,38,13,18,9,179.9,1619.1,RJ,Sudeste,Representante,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Beatriz Nogueira,Pessoa Jurídica,Mariana Araujo,20000,2025,2025-12,437.157
+407,2025-12-16,4,3,9,7,329.9,2309.3,AL,Nordeste,Loja Física,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Beatriz Souza,Pessoa Física,Carla Oliveira,15000,2025,2025-12,577.325
+408,2025-12-16,25,12,18,7,179.9,1259.3,RJ,Sudeste,Representante,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Rogerio Correia,Pessoa Física,Lucas Martins,25000,2025,2025-12,340.011
+409,2025-12-16,8,10,13,8,49.9,399.2,RS,Sul,Televendas,Concluída,Coleira Ajustável para Cães,Pet,0.28,Patricia Ferreira,Pessoa Física,João Carvalho,15000,2025,2025-12,111.77600000000001
+410,2025-12-16,38,18,12,6,39.9,239.4,SP,Sudeste,Televendas,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Beatriz Nogueira,Pessoa Jurídica,Rafael Monteiro,15000,2025,2025-12,67.03200000000001
+411,2025-12-16,23,7,6,7,199.9,1399.3,AL,Nordeste,Loja Física,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Marcelo Moreira,Pessoa Jurídica,Gabriela Almeida,15000,2025,2025-12,419.78999999999996
+412,2025-12-16,37,15,6,7,199.9,1399.3,AM,Norte,E-commerce,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Diego Marques,Pessoa Jurídica,Olivia Barbosa,15000,2025,2025-12,419.78999999999996
+413,2025-12-17,18,3,14,2,59.9,119.8,AL,Nordeste,Loja Física,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Amanda Monteiro,Pessoa Física,Carla Oliveira,15000,2025,2025-12,23.96
+414,2025-12-17,34,9,6,6,199.9,1199.4,AL,Nordeste,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Vitoria Cunha,Pessoa Física,Isabela Rodrigues,25000,2025,2025-12,359.82
+415,2025-12-17,21,13,9,3,329.9,989.7,BA,Nordeste,Loja Física,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Fabio Nunes,Pessoa Física,Mariana Araujo,20000,2025,2025-12,247.425
+416,2025-12-18,19,10,16,4,149.9,599.6,MG,Sudeste,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Daniel Cardoso,Pessoa Jurídica,João Carvalho,15000,2025,2025-12,197.86800000000002
+417,2025-12-18,4,17,2,2,89.9,179.8,MG,Sudeste,E-commerce,Concluída,Mouse Sem Fio X200,Informática,0.18,Beatriz Souza,Pessoa Física,Queila Alves,15000,2025,2025-12,32.364000000000004
+418,2025-12-19,13,11,20,8,159.9,1279.2,PR,Sul,E-commerce,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Rafael Araujo,Pessoa Física,Karina Gomes,20000,2025,2025-12,243.048
+419,2025-12-19,10,13,3,5,2350.0,11750.0,BA,Nordeste,Loja Física,Pendente,Smartphone Galaxy A5,Eletrônicos,0.22,Renata Carvalho,Pessoa Física,Mariana Araujo,20000,2025,2025-12,2585.0
+420,2025-12-20,19,15,8,9,1850.0,16650.0,AM,Norte,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Daniel Cardoso,Pessoa Jurídica,Olivia Barbosa,15000,2025,2025-12,4162.5
+421,2025-12-21,31,10,18,1,179.9,179.9,PI,Nordeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Ricardo Fontoura,Pessoa Física,João Carvalho,15000,2025,2025-12,48.57300000000001
+422,2025-12-21,10,20,9,6,329.9,1979.4,RS,Sul,E-commerce,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Renata Carvalho,Pessoa Física,Thiago Teixeira,25000,2025,2025-12,494.85
+423,2025-12-22,25,17,11,7,189.9,1329.3,MS,Centro-Oeste,Televendas,Cancelada,Ração Premium Cães 15kg,Pet,0.28,Rogerio Correia,Pessoa Física,Queila Alves,15000,2025,2025-12,372.204
+424,2025-12-22,8,8,17,1,219.9,219.9,GO,Centro-Oeste,E-commerce,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Patricia Ferreira,Pessoa Física,Henrique Ferreira,30000,2025,2025-12,72.56700000000001
+425,2025-12-23,34,4,10,2,189.9,379.8,MG,Sudeste,Televendas,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Vitoria Cunha,Pessoa Física,Diego Souza,15000,2025,2025-12,132.93
+426,2025-12-23,39,7,13,4,49.9,199.6,AL,Nordeste,Televendas,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Felipe Azevedo,Pessoa Física,Gabriela Almeida,15000,2025,2025-12,55.888000000000005
+427,2025-12-25,37,9,7,7,459.0,3213.0,AL,Nordeste,E-commerce,Cancelada,Air Fryer Family 5L,Casa e Cozinha,0.3,Diego Marques,Pessoa Jurídica,Isabela Rodrigues,25000,2025,2025-12,963.9
+428,2025-12-25,18,2,16,9,149.9,1349.1,SP,Sudeste,Loja Física,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Amanda Monteiro,Pessoa Física,Bruno Santos,20000,2025,2025-12,445.203
+429,2025-12-26,18,10,4,9,3100.0,27900.0,RS,Sul,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Amanda Monteiro,Pessoa Física,João Carvalho,15000,2025,2025-12,6138.0
+430,2025-12-26,10,10,2,5,89.9,449.5,AM,Norte,Televendas,Cancelada,Mouse Sem Fio X200,Informática,0.18,Renata Carvalho,Pessoa Física,João Carvalho,15000,2025,2025-12,80.91
+431,2025-12-26,27,2,9,3,329.9,989.7,SP,Sudeste,Loja Física,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Sergio Lopes,Pessoa Física,Bruno Santos,20000,2025,2025-12,247.425
+432,2025-12-26,10,18,11,7,189.9,1329.3,SP,Sudeste,E-commerce,Concluída,Ração Premium Cães 15kg,Pet,0.28,Renata Carvalho,Pessoa Física,Rafael Monteiro,15000,2025,2025-12,372.204
+433,2025-12-27,22,4,2,8,89.9,719.2,MG,Sudeste,Representante,Cancelada,Mouse Sem Fio X200,Informática,0.18,Tatiane Pinto,Pessoa Física,Diego Souza,15000,2025,2025-12,129.45600000000002
+434,2025-12-31,26,17,10,9,189.9,1709.1,MS,Centro-Oeste,Representante,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Cristina Dias,Pessoa Física,Queila Alves,15000,2025,2025-12,598.185
+435,2025-12-31,24,18,20,5,159.9,799.5,SP,Sudeste,E-commerce,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Aline Nascimento,Pessoa Física,Rafael Monteiro,15000,2025,2025-12,151.905
+436,2026-01-01,30,4,7,10,459.0,4590.0,PI,Nordeste,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Simone Batista,Pessoa Jurídica,Diego Souza,15000,2026,2026-01,1377.0
+437,2026-01-02,22,2,13,2,49.9,99.8,SP,Sudeste,Representante,Pendente,Coleira Ajustável para Cães,Pet,0.28,Tatiane Pinto,Pessoa Física,Bruno Santos,20000,2026,2026-01,27.944000000000003
+438,2026-01-07,22,7,20,7,159.9,1119.3,AL,Nordeste,Representante,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Tatiane Pinto,Pessoa Física,Gabriela Almeida,15000,2026,2026-01,212.667
+439,2026-01-12,15,2,7,9,459.0,4131.0,PB,Nordeste,Representante,Cancelada,Air Fryer Family 5L,Casa e Cozinha,0.3,Bruno Barbosa,Pessoa Jurídica,Bruno Santos,20000,2026,2026-01,1239.3
+440,2026-01-12,21,16,15,9,24.9,224.1,GO,Centro-Oeste,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Fabio Nunes,Pessoa Física,Pedro Ribeiro,25000,2026,2026-01,44.82
+441,2026-01-12,10,5,9,6,329.9,1979.4,AL,Nordeste,Loja Física,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Renata Carvalho,Pessoa Física,Eduarda Costa,15000,2026,2026-01,494.85
+442,2026-01-13,13,10,13,2,49.9,99.8,RS,Sul,Televendas,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Rafael Araujo,Pessoa Física,João Carvalho,15000,2026,2026-01,27.944000000000003
+443,2026-01-15,38,7,15,2,24.9,49.8,AL,Nordeste,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Beatriz Nogueira,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-01,9.96
+444,2026-01-16,6,1,1,3,4200.0,12600.0,RJ,Sudeste,Televendas,Cancelada,Notebook Pro 15,Informática,0.18,Camila Pereira,Pessoa Física,Ana Silva,15000,2026,2026-01,2268.0
+445,2026-01-18,2,6,4,5,3100.0,15500.0,AC,Norte,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Fernanda Santos,Pessoa Física,Felipe Pereira,20000,2026,2026-01,3410.0
+446,2026-01-18,8,6,11,3,189.9,569.7,AC,Norte,Televendas,Cancelada,Ração Premium Cães 15kg,Pet,0.28,Patricia Ferreira,Pessoa Física,Felipe Pereira,20000,2026,2026-01,159.51600000000002
+447,2026-01-18,20,6,16,7,149.9,1049.3,AC,Norte,Representante,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Felipe Pereira,20000,2026,2026-01,346.269
+448,2026-01-19,39,13,18,9,179.9,1619.1,CE,Nordeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Felipe Azevedo,Pessoa Física,Mariana Araujo,20000,2026,2026-01,437.157
+449,2026-01-19,17,15,1,8,4200.0,33600.0,AM,Norte,E-commerce,Concluída,Notebook Pro 15,Informática,0.18,Caio Alves,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-01,6048.0
+450,2026-01-19,3,5,12,6,39.9,239.4,MT,Centro-Oeste,E-commerce,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Rodrigo Oliveira,Pessoa Jurídica,Eduarda Costa,15000,2026,2026-01,67.03200000000001
+451,2026-01-20,33,17,8,10,1850.0,18500.0,MS,Centro-Oeste,E-commerce,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Andre Siqueira,Pessoa Jurídica,Queila Alves,15000,2026,2026-01,4625.0
+452,2026-01-21,38,4,15,8,24.9,199.2,MG,Sudeste,Loja Física,Cancelada,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Beatriz Nogueira,Pessoa Jurídica,Diego Souza,15000,2026,2026-01,39.84
+453,2026-01-21,2,5,16,7,149.9,1049.3,RO,Norte,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Fernanda Santos,Pessoa Física,Eduarda Costa,15000,2026,2026-01,346.269
+454,2026-01-22,1,4,4,10,3100.0,31000.0,MG,Sudeste,Loja Física,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Marcos Silva,Pessoa Física,Diego Souza,15000,2026,2026-01,6820.0
+455,2026-01-23,22,2,3,2,2350.0,4700.0,SP,Sudeste,Televendas,Pendente,Smartphone Galaxy A5,Eletrônicos,0.22,Tatiane Pinto,Pessoa Física,Bruno Santos,20000,2026,2026-01,1034.0
+456,2026-01-24,4,18,14,10,59.9,599.0,SP,Sudeste,Loja Física,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Beatriz Souza,Pessoa Física,Rafael Monteiro,15000,2026,2026-01,119.80000000000001
+457,2026-01-24,17,7,20,8,159.9,1279.2,ES,Sudeste,Televendas,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Caio Alves,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-01,243.048
+458,2026-01-24,4,3,16,1,149.9,149.9,PE,Nordeste,Televendas,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Beatriz Souza,Pessoa Física,Carla Oliveira,15000,2026,2026-01,49.467000000000006
+459,2026-01-25,12,16,15,1,24.9,24.9,PB,Nordeste,Televendas,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Juliana Martins,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-01,4.98
+460,2026-01-25,28,11,19,2,129.9,259.8,PR,Sul,Representante,Cancelada,Pista de Carrinhos Radical,Brinquedos,0.27,Debora Cavalcanti,Pessoa Física,Karina Gomes,20000,2026,2026-01,70.146
+461,2026-01-26,18,19,4,7,3100.0,21700.0,PE,Nordeste,E-commerce,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Amanda Monteiro,Pessoa Física,Sofia Cardoso,25000,2026,2026-01,4774.0
+462,2026-01-26,18,9,5,10,249.9,2499.0,AL,Nordeste,Televendas,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Amanda Monteiro,Pessoa Física,Isabela Rodrigues,25000,2026,2026-01,549.78
+463,2026-01-26,34,16,14,4,59.9,239.6,PB,Nordeste,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Vitoria Cunha,Pessoa Física,Pedro Ribeiro,25000,2026,2026-01,47.92
+464,2026-01-27,15,9,14,7,59.9,419.3,AL,Nordeste,Representante,Cancelada,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Bruno Barbosa,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-01,83.86000000000001
+465,2026-01-28,25,8,13,9,49.9,449.1,PA,Norte,Televendas,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Rogerio Correia,Pessoa Física,Henrique Ferreira,30000,2026,2026-01,125.74800000000002
+466,2026-01-30,13,20,13,3,49.9,149.7,SC,Sul,E-commerce,Concluída,Coleira Ajustável para Cães,Pet,0.28,Rafael Araujo,Pessoa Física,Thiago Teixeira,25000,2026,2026-01,41.916000000000004
+467,2026-02-02,6,14,13,3,49.9,149.7,PR,Sul,Representante,Pendente,Coleira Ajustável para Cães,Pet,0.28,Camila Pereira,Pessoa Física,Nelson Melo,15000,2026,2026-02,41.916000000000004
+468,2026-02-04,11,18,18,1,179.9,179.9,SP,Sudeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Alexandre Gomes,Pessoa Física,Rafael Monteiro,15000,2026,2026-02,48.57300000000001
+469,2026-02-06,17,6,17,7,219.9,1539.3,AC,Norte,E-commerce,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Caio Alves,Pessoa Jurídica,Felipe Pereira,20000,2026,2026-02,507.969
+470,2026-02-09,32,3,20,6,159.9,959.4,AL,Nordeste,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Luana Peixoto,Pessoa Física,Carla Oliveira,15000,2026,2026-02,182.286
+471,2026-02-10,30,16,8,4,1850.0,7400.0,PB,Nordeste,Televendas,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Simone Batista,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-02,1850.0
+472,2026-02-10,24,16,14,6,59.9,359.4,RR,Norte,E-commerce,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Aline Nascimento,Pessoa Física,Pedro Ribeiro,25000,2026,2026-02,71.88
+473,2026-02-13,34,20,8,7,1850.0,12950.0,SC,Sul,Loja Física,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Vitoria Cunha,Pessoa Física,Thiago Teixeira,25000,2026,2026-02,3237.5
+474,2026-02-15,3,8,17,9,219.9,1979.1,GO,Centro-Oeste,E-commerce,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Rodrigo Oliveira,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-02,653.103
+475,2026-02-15,12,10,13,2,49.9,99.8,RS,Sul,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Juliana Martins,Pessoa Jurídica,João Carvalho,15000,2026,2026-02,27.944000000000003
+476,2026-02-17,26,11,18,10,179.9,1799.0,PR,Sul,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Cristina Dias,Pessoa Física,Karina Gomes,20000,2026,2026-02,485.73
+477,2026-02-19,15,3,2,3,89.9,269.7,AL,Nordeste,E-commerce,Cancelada,Mouse Sem Fio X200,Informática,0.18,Bruno Barbosa,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-02,48.546
+478,2026-02-20,33,10,18,6,179.9,1079.4,RS,Sul,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Andre Siqueira,Pessoa Jurídica,João Carvalho,15000,2026,2026-02,291.43800000000005
+479,2026-02-20,5,7,11,8,189.9,1519.2,AL,Nordeste,Televendas,Pendente,Ração Premium Cães 15kg,Pet,0.28,Vinicius Costa,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-02,425.37600000000003
+480,2026-02-21,29,7,5,1,249.9,249.9,AL,Nordeste,Loja Física,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-02,54.978
+481,2026-02-22,37,2,18,8,179.9,1439.2,SP,Sudeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Diego Marques,Pessoa Jurídica,Bruno Santos,20000,2026,2026-02,388.58400000000006
+482,2026-02-22,9,20,18,1,179.9,179.9,PR,Sul,Representante,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Gustavo Rodrigues,Pessoa Física,Thiago Teixeira,25000,2026,2026-02,48.57300000000001
+483,2026-02-22,37,18,5,6,249.9,1499.4,RS,Sul,Loja Física,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Rafael Monteiro,15000,2026,2026-02,329.868
+484,2026-02-23,29,12,3,9,2350.0,21150.0,RJ,Sudeste,Loja Física,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Lucas Martins,25000,2026,2026-02,4653.0
+485,2026-02-24,10,16,1,3,4200.0,12600.0,PB,Nordeste,Loja Física,Pendente,Notebook Pro 15,Informática,0.18,Renata Carvalho,Pessoa Física,Pedro Ribeiro,25000,2026,2026-02,2268.0
+486,2026-02-26,33,19,2,8,89.9,719.2,PE,Nordeste,Televendas,Concluída,Mouse Sem Fio X200,Informática,0.18,Andre Siqueira,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-02,129.45600000000002
+487,2026-02-28,26,7,15,4,24.9,99.6,AL,Nordeste,E-commerce,Cancelada,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Cristina Dias,Pessoa Física,Gabriela Almeida,15000,2026,2026-02,19.92
+488,2026-03-01,1,17,5,6,249.9,1499.4,MS,Centro-Oeste,E-commerce,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Marcos Silva,Pessoa Física,Queila Alves,15000,2026,2026-03,329.868
+489,2026-03-01,15,17,11,7,189.9,1329.3,MS,Centro-Oeste,Televendas,Cancelada,Ração Premium Cães 15kg,Pet,0.28,Bruno Barbosa,Pessoa Jurídica,Queila Alves,15000,2026,2026-03,372.204
+490,2026-03-02,23,2,5,1,249.9,249.9,SP,Sudeste,Televendas,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Marcelo Moreira,Pessoa Jurídica,Bruno Santos,20000,2026,2026-03,54.978
+491,2026-03-02,19,20,1,5,4200.0,21000.0,SC,Sul,Loja Física,Pendente,Notebook Pro 15,Informática,0.18,Daniel Cardoso,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-03,3780.0
+492,2026-03-03,28,8,17,10,219.9,2199.0,MG,Sudeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Debora Cavalcanti,Pessoa Física,Henrique Ferreira,30000,2026,2026-03,725.6700000000001
+493,2026-03-04,7,3,16,9,149.9,1349.1,AL,Nordeste,Representante,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Leonardo Almeida,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-03,445.203
+494,2026-03-04,10,16,5,4,249.9,999.6,PB,Nordeste,E-commerce,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Renata Carvalho,Pessoa Física,Pedro Ribeiro,25000,2026,2026-03,219.912
+495,2026-03-04,3,11,19,3,129.9,389.7,PR,Sul,Televendas,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Rodrigo Oliveira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-03,105.21900000000001
+496,2026-03-06,24,20,4,4,3100.0,12400.0,SC,Sul,Televendas,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Aline Nascimento,Pessoa Física,Thiago Teixeira,25000,2026,2026-03,2728.0
+497,2026-03-06,36,13,17,6,219.9,1319.4,BA,Nordeste,Representante,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Camila Andrade,Pessoa Física,Mariana Araujo,20000,2026,2026-03,435.40200000000004
+498,2026-03-08,13,18,20,9,159.9,1439.1,RJ,Sudeste,E-commerce,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Rafael Araujo,Pessoa Física,Rafael Monteiro,15000,2026,2026-03,273.429
+499,2026-03-09,15,16,12,5,39.9,199.5,PB,Nordeste,E-commerce,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Bruno Barbosa,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-03,55.86000000000001
+500,2026-03-10,21,14,11,2,189.9,379.8,PR,Sul,E-commerce,Concluída,Ração Premium Cães 15kg,Pet,0.28,Fabio Nunes,Pessoa Física,Nelson Melo,15000,2026,2026-03,106.34400000000001
+501,2026-03-11,39,2,20,5,159.9,799.5,SP,Sudeste,Televendas,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Felipe Azevedo,Pessoa Física,Bruno Santos,20000,2026,2026-03,151.905
+502,2026-03-13,37,7,18,10,179.9,1799.0,DF,Centro-Oeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Diego Marques,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-03,485.73
+503,2026-03-13,24,14,5,5,249.9,1249.5,MG,Sudeste,Loja Física,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Aline Nascimento,Pessoa Física,Nelson Melo,15000,2026,2026-03,274.89
+504,2026-03-13,19,18,16,1,149.9,149.9,CE,Nordeste,Televendas,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Daniel Cardoso,Pessoa Jurídica,Rafael Monteiro,15000,2026,2026-03,49.467000000000006
+505,2026-03-17,7,18,3,9,2350.0,21150.0,SP,Sudeste,E-commerce,Pendente,Smartphone Galaxy A5,Eletrônicos,0.22,Leonardo Almeida,Pessoa Jurídica,Rafael Monteiro,15000,2026,2026-03,4653.0
+506,2026-03-18,34,9,18,8,179.9,1439.2,AL,Nordeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Vitoria Cunha,Pessoa Física,Isabela Rodrigues,25000,2026,2026-03,388.58400000000006
+507,2026-03-19,24,11,14,3,59.9,179.7,PR,Sul,Loja Física,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Aline Nascimento,Pessoa Física,Karina Gomes,20000,2026,2026-03,35.94
+508,2026-03-19,18,6,7,8,459.0,3672.0,AC,Norte,Loja Física,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Amanda Monteiro,Pessoa Física,Felipe Pereira,20000,2026,2026-03,1101.6
+509,2026-03-19,9,2,17,7,219.9,1539.3,SP,Sudeste,E-commerce,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Gustavo Rodrigues,Pessoa Física,Bruno Santos,20000,2026,2026-03,507.969
+510,2026-03-19,35,6,10,6,189.9,1139.4,AC,Norte,Representante,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Marcos Vinicius Rocha,Pessoa Física,Felipe Pereira,20000,2026,2026-03,398.79
+511,2026-03-20,30,6,13,6,49.9,299.4,AC,Norte,Loja Física,Concluída,Coleira Ajustável para Cães,Pet,0.28,Simone Batista,Pessoa Jurídica,Felipe Pereira,20000,2026,2026-03,83.83200000000001
+512,2026-03-21,12,4,20,3,159.9,479.7,MG,Sudeste,Televendas,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Juliana Martins,Pessoa Jurídica,Diego Souza,15000,2026,2026-03,91.143
+513,2026-03-23,19,12,5,3,249.9,749.7,RJ,Sudeste,Televendas,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Daniel Cardoso,Pessoa Jurídica,Lucas Martins,25000,2026,2026-03,164.934
+514,2026-03-23,24,12,13,5,49.9,249.5,RJ,Sudeste,Loja Física,Pendente,Coleira Ajustável para Cães,Pet,0.28,Aline Nascimento,Pessoa Física,Lucas Martins,25000,2026,2026-03,69.86000000000001
+515,2026-03-23,38,14,14,10,59.9,599.0,PR,Sul,Loja Física,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Beatriz Nogueira,Pessoa Jurídica,Nelson Melo,15000,2026,2026-03,119.80000000000001
+516,2026-03-23,39,10,19,5,129.9,649.5,RS,Sul,Representante,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Felipe Azevedo,Pessoa Física,João Carvalho,15000,2026,2026-03,175.365
+517,2026-03-23,3,11,12,3,39.9,119.7,PR,Sul,Loja Física,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Rodrigo Oliveira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-03,33.516000000000005
+518,2026-03-24,23,2,9,2,329.9,659.8,SP,Sudeste,Representante,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Marcelo Moreira,Pessoa Jurídica,Bruno Santos,20000,2026,2026-03,164.95
+519,2026-03-27,9,4,13,10,49.9,499.0,MG,Sudeste,Televendas,Pendente,Coleira Ajustável para Cães,Pet,0.28,Gustavo Rodrigues,Pessoa Física,Diego Souza,15000,2026,2026-03,139.72000000000003
+520,2026-03-27,37,4,20,5,159.9,799.5,MG,Sudeste,Representante,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Diego Marques,Pessoa Jurídica,Diego Souza,15000,2026,2026-03,151.905
+521,2026-03-27,22,16,16,1,149.9,149.9,PB,Nordeste,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Tatiane Pinto,Pessoa Física,Pedro Ribeiro,25000,2026,2026-03,49.467000000000006
+522,2026-03-28,17,1,11,8,189.9,1519.2,ES,Sudeste,Loja Física,Concluída,Ração Premium Cães 15kg,Pet,0.28,Caio Alves,Pessoa Jurídica,Ana Silva,15000,2026,2026-03,425.37600000000003
+523,2026-03-28,10,8,10,3,189.9,569.7,GO,Centro-Oeste,E-commerce,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Renata Carvalho,Pessoa Física,Henrique Ferreira,30000,2026,2026-03,199.395
+524,2026-03-29,33,5,6,3,199.9,599.7,MT,Centro-Oeste,Televendas,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Andre Siqueira,Pessoa Jurídica,Eduarda Costa,15000,2026,2026-03,179.91
+525,2026-03-29,36,14,13,4,49.9,199.6,PR,Sul,Representante,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Camila Andrade,Pessoa Física,Nelson Melo,15000,2026,2026-03,55.888000000000005
+526,2026-03-30,38,5,19,1,129.9,129.9,MT,Centro-Oeste,E-commerce,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Beatriz Nogueira,Pessoa Jurídica,Eduarda Costa,15000,2026,2026-03,35.073
+527,2026-04-01,11,3,9,7,329.9,2309.3,AL,Nordeste,Representante,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Alexandre Gomes,Pessoa Física,Carla Oliveira,15000,2026,2026-04,577.325
+528,2026-04-03,26,11,3,9,2350.0,21150.0,SE,Nordeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Cristina Dias,Pessoa Física,Karina Gomes,20000,2026,2026-04,4653.0
+529,2026-04-05,37,19,6,3,199.9,599.7,PE,Nordeste,E-commerce,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Diego Marques,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-04,179.91
+530,2026-04-05,1,16,7,6,459.0,2754.0,PB,Nordeste,Representante,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Marcos Silva,Pessoa Física,Pedro Ribeiro,25000,2026,2026-04,826.1999999999999
+531,2026-04-06,40,2,20,3,159.9,479.7,SP,Sudeste,E-commerce,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Larissa Prado,Pessoa Jurídica,Bruno Santos,20000,2026,2026-04,91.143
+532,2026-04-10,38,3,3,5,2350.0,11750.0,AL,Nordeste,Loja Física,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Beatriz Nogueira,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-04,2585.0
+533,2026-04-12,6,20,2,7,89.9,629.3,PE,Nordeste,Televendas,Pendente,Mouse Sem Fio X200,Informática,0.18,Camila Pereira,Pessoa Física,Thiago Teixeira,25000,2026,2026-04,113.27399999999999
+534,2026-04-15,1,3,13,5,49.9,249.5,AL,Nordeste,Televendas,Concluída,Coleira Ajustável para Cães,Pet,0.28,Marcos Silva,Pessoa Física,Carla Oliveira,15000,2026,2026-04,69.86000000000001
+535,2026-04-17,20,11,16,7,149.9,1049.3,PR,Sul,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-04,346.269
+536,2026-04-18,21,1,4,6,3100.0,18600.0,ES,Sudeste,E-commerce,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Ana Silva,15000,2026,2026-04,4092.0
+537,2026-04-19,26,15,8,10,1850.0,18500.0,AM,Norte,Televendas,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Cristina Dias,Pessoa Física,Olivia Barbosa,15000,2026,2026-04,4625.0
+538,2026-04-20,20,15,8,9,1850.0,16650.0,AM,Norte,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Priscila Teixeira,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-04,4162.5
+539,2026-04-20,7,3,17,8,219.9,1759.2,AL,Nordeste,Loja Física,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Leonardo Almeida,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-04,580.5360000000001
+540,2026-04-21,10,10,12,1,39.9,39.9,RS,Sul,Loja Física,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Renata Carvalho,Pessoa Física,João Carvalho,15000,2026,2026-04,11.172
+541,2026-04-23,24,4,18,10,179.9,1799.0,MG,Sudeste,Loja Física,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Aline Nascimento,Pessoa Física,Diego Souza,15000,2026,2026-04,485.73
+542,2026-04-23,38,19,9,7,329.9,2309.3,PE,Nordeste,Representante,Cancelada,Tênis Runner Pro,Esporte e Lazer,0.25,Beatriz Nogueira,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-04,577.325
+543,2026-04-24,19,15,5,3,249.9,749.7,AM,Norte,Loja Física,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Daniel Cardoso,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-04,164.934
+544,2026-04-24,5,18,13,4,49.9,199.6,SP,Sudeste,Representante,Pendente,Coleira Ajustável para Cães,Pet,0.28,Vinicius Costa,Pessoa Jurídica,Rafael Monteiro,15000,2026,2026-04,55.888000000000005
+545,2026-04-25,40,17,16,9,149.9,1349.1,ES,Sudeste,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Larissa Prado,Pessoa Jurídica,Queila Alves,15000,2026,2026-04,445.203
+546,2026-04-26,11,10,9,3,329.9,989.7,RJ,Sudeste,Televendas,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Alexandre Gomes,Pessoa Física,João Carvalho,15000,2026,2026-04,247.425
+547,2026-04-26,19,2,13,7,49.9,349.3,SP,Sudeste,Televendas,Pendente,Coleira Ajustável para Cães,Pet,0.28,Daniel Cardoso,Pessoa Jurídica,Bruno Santos,20000,2026,2026-04,97.80400000000002
+548,2026-04-26,28,14,5,10,249.9,2499.0,PR,Sul,Loja Física,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Debora Cavalcanti,Pessoa Física,Nelson Melo,15000,2026,2026-04,549.78
+549,2026-04-28,34,11,3,10,2350.0,23500.0,PR,Sul,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Vitoria Cunha,Pessoa Física,Karina Gomes,20000,2026,2026-04,5170.0
+550,2026-04-29,35,14,9,4,329.9,1319.6,PR,Sul,E-commerce,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Marcos Vinicius Rocha,Pessoa Física,Nelson Melo,15000,2026,2026-04,329.9
+551,2026-04-30,15,17,13,6,49.9,299.4,PB,Nordeste,Representante,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Bruno Barbosa,Pessoa Jurídica,Queila Alves,15000,2026,2026-04,83.83200000000001
+552,2026-04-30,2,13,16,3,149.9,449.7,MA,Nordeste,Loja Física,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Fernanda Santos,Pessoa Física,Mariana Araujo,20000,2026,2026-04,148.401
+553,2026-05-01,16,20,6,9,199.9,1799.1,SC,Sul,Loja Física,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Vanessa Ribeiro,Pessoa Física,Thiago Teixeira,25000,2026,2026-05,539.7299999999999
+554,2026-05-01,1,3,1,7,4200.0,29400.0,AL,Nordeste,E-commerce,Cancelada,Notebook Pro 15,Informática,0.18,Marcos Silva,Pessoa Física,Carla Oliveira,15000,2026,2026-05,5292.0
+555,2026-05-01,36,8,7,2,459.0,918.0,PA,Norte,Televendas,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Camila Andrade,Pessoa Física,Henrique Ferreira,30000,2026,2026-05,275.4
+556,2026-05-02,15,15,11,9,189.9,1709.1,AM,Norte,Representante,Concluída,Ração Premium Cães 15kg,Pet,0.28,Bruno Barbosa,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-05,478.548
+557,2026-05-02,39,3,11,8,189.9,1519.2,PA,Norte,Televendas,Concluída,Ração Premium Cães 15kg,Pet,0.28,Felipe Azevedo,Pessoa Física,Carla Oliveira,15000,2026,2026-05,425.37600000000003
+558,2026-05-04,31,2,5,9,249.9,2249.1,SP,Sudeste,E-commerce,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Ricardo Fontoura,Pessoa Física,Bruno Santos,20000,2026,2026-05,494.80199999999996
+559,2026-05-07,21,12,20,1,159.9,159.9,RJ,Sudeste,Loja Física,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Fabio Nunes,Pessoa Física,Lucas Martins,25000,2026,2026-05,30.381
+560,2026-05-08,38,10,5,8,249.9,1999.2,RS,Sul,E-commerce,Cancelada,Fone Bluetooth ProSound,Eletrônicos,0.22,Beatriz Nogueira,Pessoa Jurídica,João Carvalho,15000,2026,2026-05,439.824
+561,2026-05-11,13,18,3,8,2350.0,18800.0,SP,Sudeste,E-commerce,Cancelada,Smartphone Galaxy A5,Eletrônicos,0.22,Rafael Araujo,Pessoa Física,Rafael Monteiro,15000,2026,2026-05,4136.0
+562,2026-05-13,8,18,1,10,4200.0,42000.0,SP,Sudeste,E-commerce,Concluída,Notebook Pro 15,Informática,0.18,Patricia Ferreira,Pessoa Física,Rafael Monteiro,15000,2026,2026-05,7560.0
+563,2026-05-14,23,12,14,6,59.9,359.4,RJ,Sudeste,Loja Física,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Marcelo Moreira,Pessoa Jurídica,Lucas Martins,25000,2026,2026-05,71.88
+564,2026-05-15,11,10,12,10,39.9,399.0,RS,Sul,E-commerce,Cancelada,Areia Higiênica para Gatos 4kg,Pet,0.28,Alexandre Gomes,Pessoa Física,João Carvalho,15000,2026,2026-05,111.72000000000001
+565,2026-05-15,11,20,6,9,199.9,1799.1,SC,Sul,Loja Física,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Alexandre Gomes,Pessoa Física,Thiago Teixeira,25000,2026,2026-05,539.7299999999999
+566,2026-05-15,36,3,7,8,459.0,3672.0,AL,Nordeste,Representante,Cancelada,Air Fryer Family 5L,Casa e Cozinha,0.3,Camila Andrade,Pessoa Física,Carla Oliveira,15000,2026,2026-05,1101.6
+567,2026-05-16,2,4,13,7,49.9,349.3,MG,Sudeste,E-commerce,Concluída,Coleira Ajustável para Cães,Pet,0.28,Fernanda Santos,Pessoa Física,Diego Souza,15000,2026,2026-05,97.80400000000002
+568,2026-05-16,34,10,11,3,189.9,569.7,RS,Sul,E-commerce,Pendente,Ração Premium Cães 15kg,Pet,0.28,Vitoria Cunha,Pessoa Física,João Carvalho,15000,2026,2026-05,159.51600000000002
+569,2026-05-17,7,10,10,10,189.9,1899.0,RS,Sul,Representante,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Leonardo Almeida,Pessoa Jurídica,João Carvalho,15000,2026,2026-05,664.65
+570,2026-05-18,36,9,12,1,39.9,39.9,AL,Nordeste,Televendas,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Camila Andrade,Pessoa Física,Isabela Rodrigues,25000,2026,2026-05,11.172
+571,2026-05-18,17,12,15,8,24.9,199.2,AC,Norte,E-commerce,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Caio Alves,Pessoa Jurídica,Lucas Martins,25000,2026,2026-05,39.84
+572,2026-05-19,12,15,4,3,3100.0,9300.0,PE,Nordeste,Representante,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Juliana Martins,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-05,2046.0
+573,2026-05-20,5,1,7,8,459.0,3672.0,SC,Sul,E-commerce,Cancelada,Air Fryer Family 5L,Casa e Cozinha,0.3,Vinicius Costa,Pessoa Jurídica,Ana Silva,15000,2026,2026-05,1101.6
+574,2026-05-21,36,3,18,4,179.9,719.6,AL,Nordeste,Televendas,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Camila Andrade,Pessoa Física,Carla Oliveira,15000,2026,2026-05,194.29200000000003
+575,2026-05-24,19,9,7,1,459.0,459.0,AL,Nordeste,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Daniel Cardoso,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-05,137.7
+576,2026-05-26,15,8,11,7,189.9,1329.3,DF,Centro-Oeste,E-commerce,Concluída,Ração Premium Cães 15kg,Pet,0.28,Bruno Barbosa,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-05,372.204
+577,2026-05-26,8,10,15,8,24.9,199.2,RS,Sul,Loja Física,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Patricia Ferreira,Pessoa Física,João Carvalho,15000,2026,2026-05,39.84
+578,2026-05-26,14,1,7,5,459.0,2295.0,ES,Sudeste,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Larissa Melo,Pessoa Física,Ana Silva,15000,2026,2026-05,688.5
+579,2026-05-27,20,7,17,5,219.9,1099.5,AL,Nordeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-05,362.83500000000004
+580,2026-05-28,12,15,4,9,3100.0,27900.0,AM,Norte,E-commerce,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Juliana Martins,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-05,6138.0
+581,2026-05-29,34,2,9,3,329.9,989.7,SP,Sudeste,Loja Física,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Vitoria Cunha,Pessoa Física,Bruno Santos,20000,2026,2026-05,247.425
+582,2026-05-29,22,18,15,1,24.9,24.9,SP,Sudeste,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Tatiane Pinto,Pessoa Física,Rafael Monteiro,15000,2026,2026-05,4.98
+583,2026-06-03,26,17,14,3,59.9,179.7,MS,Centro-Oeste,Representante,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Cristina Dias,Pessoa Física,Queila Alves,15000,2026,2026-06,35.94
+584,2026-06-03,39,20,1,4,4200.0,16800.0,BA,Nordeste,Loja Física,Concluída,Notebook Pro 15,Informática,0.18,Felipe Azevedo,Pessoa Física,Thiago Teixeira,25000,2026,2026-06,3024.0
+585,2026-06-03,8,5,1,8,4200.0,33600.0,MT,Centro-Oeste,Televendas,Concluída,Notebook Pro 15,Informática,0.18,Patricia Ferreira,Pessoa Física,Eduarda Costa,15000,2026,2026-06,6048.0
+586,2026-06-06,2,5,8,5,1850.0,9250.0,RJ,Sudeste,E-commerce,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Fernanda Santos,Pessoa Física,Eduarda Costa,15000,2026,2026-06,2312.5
+587,2026-06-08,6,15,15,10,24.9,249.0,AM,Norte,Representante,Cancelada,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Camila Pereira,Pessoa Física,Olivia Barbosa,15000,2026,2026-06,49.800000000000004
+588,2026-06-14,19,20,2,9,89.9,809.1,RN,Nordeste,Representante,Concluída,Mouse Sem Fio X200,Informática,0.18,Daniel Cardoso,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-06,145.638
+589,2026-06-16,38,13,20,6,159.9,959.4,BA,Nordeste,Televendas,Concluída,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Beatriz Nogueira,Pessoa Jurídica,Mariana Araujo,20000,2026,2026-06,182.286
+590,2026-06-19,17,9,18,7,179.9,1259.3,AL,Nordeste,Televendas,Cancelada,Boneca Interativa Fala e Canta,Brinquedos,0.27,Caio Alves,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-06,340.011
+591,2026-06-21,1,3,5,8,249.9,1999.2,PI,Nordeste,E-commerce,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Marcos Silva,Pessoa Física,Carla Oliveira,15000,2026,2026-06,439.824
+592,2026-06-22,2,16,6,9,199.9,1799.1,PB,Nordeste,Representante,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Fernanda Santos,Pessoa Física,Pedro Ribeiro,25000,2026,2026-06,539.7299999999999
+593,2026-06-22,35,5,16,6,149.9,899.4,MT,Centro-Oeste,E-commerce,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Marcos Vinicius Rocha,Pessoa Física,Eduarda Costa,15000,2026,2026-06,296.802
+594,2026-06-22,6,4,5,7,249.9,1749.3,MG,Sudeste,E-commerce,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Camila Pereira,Pessoa Física,Diego Souza,15000,2026,2026-06,384.846
+595,2026-06-23,22,11,15,8,24.9,199.2,PR,Sul,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Tatiane Pinto,Pessoa Física,Karina Gomes,20000,2026,2026-06,39.84
+596,2026-06-23,22,17,2,5,89.9,449.5,MS,Centro-Oeste,Televendas,Pendente,Mouse Sem Fio X200,Informática,0.18,Tatiane Pinto,Pessoa Física,Queila Alves,15000,2026,2026-06,80.91
+597,2026-06-23,28,12,13,6,49.9,299.4,RJ,Sudeste,Televendas,Concluída,Coleira Ajustável para Cães,Pet,0.28,Debora Cavalcanti,Pessoa Física,Lucas Martins,25000,2026,2026-06,83.83200000000001
+598,2026-06-24,37,20,18,9,179.9,1619.1,SC,Sul,E-commerce,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Diego Marques,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-06,437.157
+599,2026-06-25,4,7,10,8,189.9,1519.2,AL,Nordeste,Televendas,Concluída,Jaqueta Corta-Vento,Moda,0.35,Beatriz Souza,Pessoa Física,Gabriela Almeida,15000,2026,2026-06,531.72
+600,2026-06-26,26,5,5,6,249.9,1499.4,MT,Centro-Oeste,E-commerce,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Cristina Dias,Pessoa Física,Eduarda Costa,15000,2026,2026-06,329.868
+601,2026-06-26,35,10,16,9,149.9,1349.1,RS,Sul,Representante,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Marcos Vinicius Rocha,Pessoa Física,João Carvalho,15000,2026,2026-06,445.203
+602,2026-06-28,3,17,14,4,59.9,239.6,SE,Nordeste,Representante,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Rodrigo Oliveira,Pessoa Jurídica,Queila Alves,15000,2026,2026-06,47.92
+603,2026-06-28,5,18,8,1,1850.0,1850.0,SP,Sudeste,Representante,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Vinicius Costa,Pessoa Jurídica,Rafael Monteiro,15000,2026,2026-06,462.5
+604,2026-06-30,18,14,6,9,199.9,1799.1,PR,Sul,Loja Física,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Amanda Monteiro,Pessoa Física,Nelson Melo,15000,2026,2026-06,539.7299999999999
+605,2026-06-30,23,2,10,5,189.9,949.5,SP,Sudeste,E-commerce,Pendente,Jaqueta Corta-Vento,Moda,0.35,Marcelo Moreira,Pessoa Jurídica,Bruno Santos,20000,2026,2026-06,332.325
+606,2026-07-03,36,1,14,4,59.9,239.6,ES,Sudeste,Televendas,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Camila Andrade,Pessoa Física,Ana Silva,15000,2026,2026-07,47.92
+607,2026-07-04,5,8,15,10,24.9,249.0,GO,Centro-Oeste,Representante,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Vinicius Costa,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-07,49.800000000000004
+608,2026-07-05,26,6,12,8,39.9,319.2,AC,Norte,E-commerce,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Cristina Dias,Pessoa Física,Felipe Pereira,20000,2026,2026-07,89.376
+609,2026-07-05,30,4,4,5,3100.0,15500.0,MG,Sudeste,Loja Física,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Simone Batista,Pessoa Jurídica,Diego Souza,15000,2026,2026-07,3410.0
+610,2026-07-06,3,2,12,5,39.9,199.5,SP,Sudeste,Televendas,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Rodrigo Oliveira,Pessoa Jurídica,Bruno Santos,20000,2026,2026-07,55.86000000000001
+611,2026-07-07,13,17,8,10,1850.0,18500.0,MS,Centro-Oeste,Loja Física,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Rafael Araujo,Pessoa Física,Queila Alves,15000,2026,2026-07,4625.0
+612,2026-07-08,10,2,13,8,49.9,399.2,SP,Sudeste,E-commerce,Concluída,Coleira Ajustável para Cães,Pet,0.28,Renata Carvalho,Pessoa Física,Bruno Santos,20000,2026,2026-07,111.77600000000001
+613,2026-07-10,13,12,2,4,89.9,359.6,AL,Nordeste,Representante,Concluída,Mouse Sem Fio X200,Informática,0.18,Rafael Araujo,Pessoa Física,Lucas Martins,25000,2026,2026-07,64.72800000000001
+614,2026-07-10,28,18,11,4,189.9,759.6,SP,Sudeste,Televendas,Pendente,Ração Premium Cães 15kg,Pet,0.28,Debora Cavalcanti,Pessoa Física,Rafael Monteiro,15000,2026,2026-07,212.68800000000002
+615,2026-07-11,32,10,9,9,329.9,2969.1,AP,Norte,Representante,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Luana Peixoto,Pessoa Física,João Carvalho,15000,2026,2026-07,742.275
+616,2026-07-12,20,16,18,2,179.9,359.8,PB,Nordeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Priscila Teixeira,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-07,97.14600000000002
+617,2026-07-14,8,11,4,8,3100.0,24800.0,PR,Sul,Loja Física,Cancelada,Smart TV 55'' 4K,Eletrônicos,0.22,Patricia Ferreira,Pessoa Física,Karina Gomes,20000,2026,2026-07,5456.0
+618,2026-07-15,14,9,2,4,89.9,359.6,AL,Nordeste,Loja Física,Cancelada,Mouse Sem Fio X200,Informática,0.18,Larissa Melo,Pessoa Física,Isabela Rodrigues,25000,2026,2026-07,64.72800000000001
+619,2026-07-15,18,1,14,4,59.9,239.6,ES,Sudeste,Representante,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Amanda Monteiro,Pessoa Física,Ana Silva,15000,2026,2026-07,47.92
+620,2026-07-16,31,7,19,3,129.9,389.7,AL,Nordeste,Representante,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Ricardo Fontoura,Pessoa Física,Gabriela Almeida,15000,2026,2026-07,105.21900000000001
+621,2026-07-16,37,11,14,6,59.9,359.4,RS,Sul,Televendas,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Diego Marques,Pessoa Jurídica,Karina Gomes,20000,2026,2026-07,71.88
+622,2026-07-16,35,8,13,7,49.9,349.3,GO,Centro-Oeste,Loja Física,Pendente,Coleira Ajustável para Cães,Pet,0.28,Marcos Vinicius Rocha,Pessoa Física,Henrique Ferreira,30000,2026,2026-07,97.80400000000002
+623,2026-07-17,29,16,2,5,89.9,449.5,TO,Norte,Televendas,Pendente,Mouse Sem Fio X200,Informática,0.18,Otavio Farias,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-07,80.91
+624,2026-07-17,1,13,7,6,459.0,2754.0,BA,Nordeste,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Marcos Silva,Pessoa Física,Mariana Araujo,20000,2026,2026-07,826.1999999999999
+625,2026-07-17,14,7,20,1,159.9,159.9,AL,Nordeste,E-commerce,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Larissa Melo,Pessoa Física,Gabriela Almeida,15000,2026,2026-07,30.381
+626,2026-07-17,40,3,8,8,1850.0,14800.0,AL,Nordeste,E-commerce,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Larissa Prado,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-07,3700.0
+627,2026-07-22,20,11,6,1,199.9,199.9,PR,Sul,E-commerce,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Priscila Teixeira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-07,59.97
+628,2026-07-22,40,11,2,1,89.9,89.9,PR,Sul,Loja Física,Pendente,Mouse Sem Fio X200,Informática,0.18,Larissa Prado,Pessoa Jurídica,Karina Gomes,20000,2026,2026-07,16.182000000000002
+629,2026-07-22,4,3,7,3,459.0,1377.0,PR,Sul,E-commerce,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Beatriz Souza,Pessoa Física,Carla Oliveira,15000,2026,2026-07,413.09999999999997
+630,2026-07-22,36,6,1,9,4200.0,37800.0,MT,Centro-Oeste,Representante,Concluída,Notebook Pro 15,Informática,0.18,Camila Andrade,Pessoa Física,Felipe Pereira,20000,2026,2026-07,6804.0
+631,2026-07-23,40,4,14,4,59.9,239.6,MG,Sudeste,Representante,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Larissa Prado,Pessoa Jurídica,Diego Souza,15000,2026,2026-07,47.92
+632,2026-07-24,5,10,3,4,2350.0,9400.0,PA,Norte,E-commerce,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Vinicius Costa,Pessoa Jurídica,João Carvalho,15000,2026,2026-07,2068.0
+633,2026-07-26,3,11,3,3,2350.0,7050.0,PR,Sul,Representante,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Rodrigo Oliveira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-07,1551.0
+634,2026-07-26,40,8,3,4,2350.0,9400.0,GO,Centro-Oeste,Representante,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Larissa Prado,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-07,2068.0
+635,2026-07-26,18,7,1,2,4200.0,8400.0,AL,Nordeste,Representante,Concluída,Notebook Pro 15,Informática,0.18,Amanda Monteiro,Pessoa Física,Gabriela Almeida,15000,2026,2026-07,1512.0
+636,2026-07-29,37,9,16,3,149.9,449.7,DF,Centro-Oeste,Televendas,Cancelada,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Diego Marques,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-07,148.401
+637,2026-08-01,39,16,8,4,1850.0,7400.0,PB,Nordeste,Representante,Cancelada,Bicicleta Aro 29,Esporte e Lazer,0.25,Felipe Azevedo,Pessoa Física,Pedro Ribeiro,25000,2026,2026-08,1850.0
+638,2026-08-01,14,19,11,6,189.9,1139.4,PE,Nordeste,Loja Física,Concluída,Ração Premium Cães 15kg,Pet,0.28,Larissa Melo,Pessoa Física,Sofia Cardoso,25000,2026,2026-08,319.03200000000004
+639,2026-08-02,11,11,19,3,129.9,389.7,PR,Sul,Loja Física,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Alexandre Gomes,Pessoa Física,Karina Gomes,20000,2026,2026-08,105.21900000000001
+640,2026-08-02,30,14,19,9,129.9,1169.1,BA,Nordeste,E-commerce,Cancelada,Pista de Carrinhos Radical,Brinquedos,0.27,Simone Batista,Pessoa Jurídica,Nelson Melo,15000,2026,2026-08,315.657
+641,2026-08-03,15,13,13,3,49.9,149.7,BA,Nordeste,Loja Física,Pendente,Coleira Ajustável para Cães,Pet,0.28,Bruno Barbosa,Pessoa Jurídica,Mariana Araujo,20000,2026,2026-08,41.916000000000004
+642,2026-08-05,21,15,5,6,249.9,1499.4,AM,Norte,Televendas,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Olivia Barbosa,15000,2026,2026-08,329.868
+643,2026-08-06,13,9,13,1,49.9,49.9,AL,Nordeste,Loja Física,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Rafael Araujo,Pessoa Física,Isabela Rodrigues,25000,2026,2026-08,13.972000000000001
+644,2026-08-08,18,16,20,6,159.9,959.4,PB,Nordeste,Representante,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Amanda Monteiro,Pessoa Física,Pedro Ribeiro,25000,2026,2026-08,182.286
+645,2026-08-08,40,8,18,3,179.9,539.7,PE,Nordeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Larissa Prado,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-08,145.71900000000002
+646,2026-08-10,14,11,7,4,459.0,1836.0,PR,Sul,Televendas,Cancelada,Air Fryer Family 5L,Casa e Cozinha,0.3,Larissa Melo,Pessoa Física,Karina Gomes,20000,2026,2026-08,550.8
+647,2026-08-11,5,4,9,3,329.9,989.7,MG,Sudeste,Loja Física,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Vinicius Costa,Pessoa Jurídica,Diego Souza,15000,2026,2026-08,247.425
+648,2026-08-11,25,19,13,6,49.9,299.4,PE,Nordeste,Representante,Concluída,Coleira Ajustável para Cães,Pet,0.28,Rogerio Correia,Pessoa Física,Sofia Cardoso,25000,2026,2026-08,83.83200000000001
+649,2026-08-13,6,12,8,4,1850.0,7400.0,RJ,Sudeste,Televendas,Concluída,Bicicleta Aro 29,Esporte e Lazer,0.25,Camila Pereira,Pessoa Física,Lucas Martins,25000,2026,2026-08,1850.0
+650,2026-08-14,14,20,4,8,3100.0,24800.0,SC,Sul,E-commerce,Concluída,Smart TV 55'' 4K,Eletrônicos,0.22,Larissa Melo,Pessoa Física,Thiago Teixeira,25000,2026,2026-08,5456.0
+651,2026-08-15,1,17,13,3,49.9,149.7,MS,Centro-Oeste,Televendas,Pendente,Coleira Ajustável para Cães,Pet,0.28,Marcos Silva,Pessoa Física,Queila Alves,15000,2026,2026-08,41.916000000000004
+652,2026-08-15,16,19,2,3,89.9,269.7,PE,Nordeste,Representante,Concluída,Mouse Sem Fio X200,Informática,0.18,Vanessa Ribeiro,Pessoa Física,Sofia Cardoso,25000,2026,2026-08,48.546
+653,2026-08-15,15,1,1,3,4200.0,12600.0,ES,Sudeste,Representante,Concluída,Notebook Pro 15,Informática,0.18,Bruno Barbosa,Pessoa Jurídica,Ana Silva,15000,2026,2026-08,2268.0
+654,2026-08-16,13,19,6,9,199.9,1799.1,PE,Nordeste,Representante,Concluída,Liquidificador Turbo,Casa e Cozinha,0.3,Rafael Araujo,Pessoa Física,Sofia Cardoso,25000,2026,2026-08,539.7299999999999
+655,2026-08-17,1,3,3,9,2350.0,21150.0,AL,Nordeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Marcos Silva,Pessoa Física,Carla Oliveira,15000,2026,2026-08,4653.0
+656,2026-08-17,9,10,1,5,4200.0,21000.0,TO,Norte,Televendas,Concluída,Notebook Pro 15,Informática,0.18,Gustavo Rodrigues,Pessoa Física,João Carvalho,15000,2026,2026-08,3780.0
+657,2026-08-18,21,9,5,5,249.9,1249.5,AL,Nordeste,Loja Física,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Isabela Rodrigues,25000,2026,2026-08,274.89
+658,2026-08-18,15,3,14,9,59.9,539.1,AL,Nordeste,Loja Física,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Bruno Barbosa,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-08,107.82000000000001
+659,2026-08-19,10,16,12,1,39.9,39.9,PB,Nordeste,Representante,Concluída,Areia Higiênica para Gatos 4kg,Pet,0.28,Renata Carvalho,Pessoa Física,Pedro Ribeiro,25000,2026,2026-08,11.172
+660,2026-08-19,12,13,13,6,49.9,299.4,BA,Nordeste,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Juliana Martins,Pessoa Jurídica,Mariana Araujo,20000,2026,2026-08,83.83200000000001
+661,2026-08-20,13,7,10,8,189.9,1519.2,AL,Nordeste,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Rafael Araujo,Pessoa Física,Gabriela Almeida,15000,2026,2026-08,531.72
+662,2026-08-20,33,13,5,5,249.9,1249.5,BA,Nordeste,E-commerce,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Andre Siqueira,Pessoa Jurídica,Mariana Araujo,20000,2026,2026-08,274.89
+663,2026-08-21,31,19,7,4,459.0,1836.0,PE,Nordeste,Televendas,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Sofia Cardoso,25000,2026,2026-08,550.8
+664,2026-08-23,31,20,5,6,249.9,1499.4,SC,Sul,Loja Física,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Ricardo Fontoura,Pessoa Física,Thiago Teixeira,25000,2026,2026-08,329.868
+665,2026-08-23,34,18,15,8,24.9,199.2,SP,Sudeste,Loja Física,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Vitoria Cunha,Pessoa Física,Rafael Monteiro,15000,2026,2026-08,39.84
+666,2026-08-24,37,4,14,3,59.9,179.7,MG,Sudeste,Loja Física,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Diego Marques,Pessoa Jurídica,Diego Souza,15000,2026,2026-08,35.94
+667,2026-08-26,14,3,20,6,159.9,959.4,AL,Nordeste,E-commerce,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Larissa Melo,Pessoa Física,Carla Oliveira,15000,2026,2026-08,182.286
+668,2026-08-27,25,16,17,10,219.9,2199.0,PB,Nordeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Rogerio Correia,Pessoa Física,Pedro Ribeiro,25000,2026,2026-08,725.6700000000001
+669,2026-08-27,10,16,14,7,59.9,419.3,PB,Nordeste,Representante,Concluída,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Renata Carvalho,Pessoa Física,Pedro Ribeiro,25000,2026,2026-08,83.86000000000001
+670,2026-08-30,23,11,10,7,189.9,1329.3,PR,Sul,E-commerce,Concluída,Jaqueta Corta-Vento,Moda,0.35,Marcelo Moreira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-08,465.25499999999994
+671,2026-08-31,22,3,15,5,24.9,124.5,AL,Nordeste,Loja Física,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Tatiane Pinto,Pessoa Física,Carla Oliveira,15000,2026,2026-08,24.900000000000002
+672,2026-09-01,6,5,9,10,329.9,3299.0,MT,Centro-Oeste,Loja Física,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Camila Pereira,Pessoa Física,Eduarda Costa,15000,2026,2026-09,824.75
+673,2026-09-02,14,9,16,2,149.9,299.8,AL,Nordeste,Televendas,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Larissa Melo,Pessoa Física,Isabela Rodrigues,25000,2026,2026-09,98.93400000000001
+674,2026-09-03,37,16,4,10,3100.0,31000.0,PB,Nordeste,Televendas,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-09,6820.0
+675,2026-09-03,2,16,10,3,189.9,569.7,PB,Nordeste,E-commerce,Cancelada,Jaqueta Corta-Vento,Moda,0.35,Fernanda Santos,Pessoa Física,Pedro Ribeiro,25000,2026,2026-09,199.395
+676,2026-09-05,6,4,2,4,89.9,359.6,RO,Norte,Televendas,Concluída,Mouse Sem Fio X200,Informática,0.18,Camila Pereira,Pessoa Física,Diego Souza,15000,2026,2026-09,64.72800000000001
+677,2026-09-05,14,2,15,7,24.9,174.3,SP,Sudeste,E-commerce,Concluída,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Larissa Melo,Pessoa Física,Bruno Santos,20000,2026,2026-09,34.86000000000001
+678,2026-09-07,22,16,17,6,219.9,1319.4,PB,Nordeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Tatiane Pinto,Pessoa Física,Pedro Ribeiro,25000,2026,2026-09,435.40200000000004
+679,2026-09-08,29,12,3,6,2350.0,14100.0,RJ,Sudeste,Loja Física,Pendente,Smartphone Galaxy A5,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Lucas Martins,25000,2026,2026-09,3102.0
+680,2026-09-09,7,7,19,8,129.9,1039.2,PB,Nordeste,Loja Física,Concluída,Pista de Carrinhos Radical,Brinquedos,0.27,Leonardo Almeida,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-09,280.584
+681,2026-09-09,10,6,9,2,329.9,659.8,AC,Norte,E-commerce,Concluída,Tênis Runner Pro,Esporte e Lazer,0.25,Renata Carvalho,Pessoa Física,Felipe Pereira,20000,2026,2026-09,164.95
+682,2026-09-09,10,11,13,10,49.9,499.0,PR,Sul,Representante,Cancelada,Coleira Ajustável para Cães,Pet,0.28,Renata Carvalho,Pessoa Física,Karina Gomes,20000,2026,2026-09,139.72000000000003
+683,2026-09-09,4,3,12,6,39.9,239.4,AL,Nordeste,E-commerce,Cancelada,Areia Higiênica para Gatos 4kg,Pet,0.28,Beatriz Souza,Pessoa Física,Carla Oliveira,15000,2026,2026-09,67.03200000000001
+684,2026-09-11,20,19,10,7,189.9,1329.3,PE,Nordeste,Televendas,Concluída,Jaqueta Corta-Vento,Moda,0.35,Priscila Teixeira,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-09,465.25499999999994
+685,2026-09-12,20,8,17,5,219.9,1099.5,ES,Sudeste,Televendas,Cancelada,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-09,362.83500000000004
+686,2026-09-12,6,16,5,9,249.9,2249.1,SE,Nordeste,Televendas,Concluída,Fone Bluetooth ProSound,Eletrônicos,0.22,Camila Pereira,Pessoa Física,Pedro Ribeiro,25000,2026,2026-09,494.80199999999996
+687,2026-09-13,38,4,11,6,189.9,1139.4,MG,Sudeste,Televendas,Concluída,Ração Premium Cães 15kg,Pet,0.28,Beatriz Nogueira,Pessoa Jurídica,Diego Souza,15000,2026,2026-09,319.03200000000004
+688,2026-09-14,30,20,14,10,59.9,599.0,SC,Sul,Representante,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Simone Batista,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-09,119.80000000000001
+689,2026-09-15,16,20,20,4,159.9,639.6,MG,Sudeste,Televendas,Cancelada,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Vanessa Ribeiro,Pessoa Física,Thiago Teixeira,25000,2026,2026-09,121.524
+690,2026-09-15,35,10,13,10,49.9,499.0,RS,Sul,Loja Física,Concluída,Coleira Ajustável para Cães,Pet,0.28,Marcos Vinicius Rocha,Pessoa Física,João Carvalho,15000,2026,2026-09,139.72000000000003
+691,2026-09-16,34,16,16,3,149.9,449.7,AL,Nordeste,Televendas,Concluída,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Vitoria Cunha,Pessoa Física,Pedro Ribeiro,25000,2026,2026-09,148.401
+692,2026-09-16,8,12,17,10,219.9,2199.0,RJ,Sudeste,Televendas,Concluída,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Patricia Ferreira,Pessoa Física,Lucas Martins,25000,2026,2026-09,725.6700000000001
+693,2026-09-16,33,9,18,6,179.9,1079.4,GO,Centro-Oeste,E-commerce,Concluída,Boneca Interativa Fala e Canta,Brinquedos,0.27,Andre Siqueira,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-09,291.43800000000005
+694,2026-09-18,18,14,7,2,459.0,918.0,PR,Sul,Televendas,Concluída,Air Fryer Family 5L,Casa e Cozinha,0.3,Amanda Monteiro,Pessoa Física,Nelson Melo,15000,2026,2026-09,275.4
+695,2026-09-19,26,3,3,3,2350.0,7050.0,AL,Nordeste,Televendas,Concluída,Smartphone Galaxy A5,Eletrônicos,0.22,Cristina Dias,Pessoa Física,Carla Oliveira,15000,2026,2026-09,1551.0
+696,2026-09-20,29,9,20,8,159.9,1279.2,AL,Nordeste,E-commerce,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Otavio Farias,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-09,243.048
+697,2026-09-21,25,2,10,9,189.9,1709.1,SP,Sudeste,Loja Física,Em Processamento,Jaqueta Corta-Vento,Moda,0.35,Rogerio Correia,Pessoa Física,Bruno Santos,20000,2026,2026-09,598.185
+698,2026-09-23,18,20,13,5,49.9,249.5,PR,Sul,Televendas,Em Processamento,Coleira Ajustável para Cães,Pet,0.28,Amanda Monteiro,Pessoa Física,Thiago Teixeira,25000,2026,2026-09,69.86000000000001
+699,2026-09-26,29,20,5,8,249.9,1999.2,SC,Sul,Loja Física,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-09,439.824
+700,2026-09-26,8,3,1,8,4200.0,33600.0,AL,Nordeste,E-commerce,Pendente,Notebook Pro 15,Informática,0.18,Patricia Ferreira,Pessoa Física,Carla Oliveira,15000,2026,2026-09,6048.0
+701,2026-09-27,7,9,8,9,1850.0,16650.0,AL,Nordeste,Representante,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Leonardo Almeida,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-09,4162.5
+702,2026-09-27,30,9,18,10,179.9,1799.0,PI,Nordeste,E-commerce,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Simone Batista,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-09,485.73
+703,2026-09-28,30,8,14,7,59.9,419.3,GO,Centro-Oeste,Representante,Em Processamento,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Simone Batista,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-09,83.86000000000001
+704,2026-09-29,35,11,15,7,24.9,174.3,AP,Norte,Televendas,Em Processamento,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Marcos Vinicius Rocha,Pessoa Física,Karina Gomes,20000,2026,2026-09,34.86000000000001
+705,2026-09-29,37,6,4,3,3100.0,9300.0,AC,Norte,Representante,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Felipe Pereira,20000,2026,2026-09,2046.0
+706,2026-09-29,30,2,4,1,3100.0,3100.0,RR,Norte,Loja Física,Pendente,Smart TV 55'' 4K,Eletrônicos,0.22,Simone Batista,Pessoa Jurídica,Bruno Santos,20000,2026,2026-09,682.0
+707,2026-09-29,19,14,6,8,199.9,1599.2,ES,Sudeste,Loja Física,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Daniel Cardoso,Pessoa Jurídica,Nelson Melo,15000,2026,2026-09,479.76
+708,2026-09-30,18,14,11,5,189.9,949.5,PR,Sul,E-commerce,Em Processamento,Ração Premium Cães 15kg,Pet,0.28,Amanda Monteiro,Pessoa Física,Nelson Melo,15000,2026,2026-09,265.86
+709,2026-10-01,25,12,5,5,249.9,1249.5,SE,Nordeste,Representante,Em Processamento,Fone Bluetooth ProSound,Eletrônicos,0.22,Rogerio Correia,Pessoa Física,Lucas Martins,25000,2026,2026-10,274.89
+710,2026-10-02,11,16,5,7,249.9,1749.3,PB,Nordeste,Loja Física,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Alexandre Gomes,Pessoa Física,Pedro Ribeiro,25000,2026,2026-10,384.846
+711,2026-10-02,23,15,4,10,3100.0,31000.0,SP,Sudeste,Loja Física,Em Processamento,Smart TV 55'' 4K,Eletrônicos,0.22,Marcelo Moreira,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-10,6820.0
+712,2026-10-02,27,10,10,8,189.9,1519.2,RS,Sul,Loja Física,Pendente,Jaqueta Corta-Vento,Moda,0.35,Sergio Lopes,Pessoa Física,João Carvalho,15000,2026,2026-10,531.72
+713,2026-10-03,7,9,20,3,159.9,479.7,AL,Nordeste,Representante,Em Processamento,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Leonardo Almeida,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-10,91.143
+714,2026-10-04,7,8,1,6,4200.0,25200.0,GO,Centro-Oeste,Televendas,Em Processamento,Notebook Pro 15,Informática,0.18,Leonardo Almeida,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-10,4536.0
+715,2026-10-04,12,19,18,3,179.9,539.7,PE,Nordeste,Televendas,Em Processamento,Boneca Interativa Fala e Canta,Brinquedos,0.27,Juliana Martins,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-10,145.71900000000002
+716,2026-10-04,38,16,3,3,2350.0,7050.0,PB,Nordeste,Televendas,Em Processamento,Smartphone Galaxy A5,Eletrônicos,0.22,Beatriz Nogueira,Pessoa Jurídica,Pedro Ribeiro,25000,2026,2026-10,1551.0
+717,2026-10-09,27,18,19,6,129.9,779.4,SP,Sudeste,E-commerce,Em Processamento,Pista de Carrinhos Radical,Brinquedos,0.27,Sergio Lopes,Pessoa Física,Rafael Monteiro,15000,2026,2026-10,210.43800000000002
+718,2026-10-12,3,3,10,6,189.9,1139.4,AL,Nordeste,Representante,Pendente,Jaqueta Corta-Vento,Moda,0.35,Rodrigo Oliveira,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-10,398.79
+719,2026-10-13,25,14,18,4,179.9,719.6,PR,Sul,Representante,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Rogerio Correia,Pessoa Física,Nelson Melo,15000,2026,2026-10,194.29200000000003
+720,2026-10-14,36,18,16,3,149.9,449.7,SP,Sudeste,Representante,Em Processamento,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Camila Andrade,Pessoa Física,Rafael Monteiro,15000,2026,2026-10,148.401
+721,2026-10-14,7,19,12,8,39.9,319.2,PE,Nordeste,Representante,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Leonardo Almeida,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-10,89.376
+722,2026-10-15,16,2,7,8,459.0,3672.0,SP,Sudeste,E-commerce,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Vanessa Ribeiro,Pessoa Física,Bruno Santos,20000,2026,2026-10,1101.6
+723,2026-10-18,31,19,19,7,129.9,909.3,PE,Nordeste,Televendas,Em Processamento,Pista de Carrinhos Radical,Brinquedos,0.27,Ricardo Fontoura,Pessoa Física,Sofia Cardoso,25000,2026,2026-10,245.511
+724,2026-10-19,32,18,18,10,179.9,1799.0,SP,Sudeste,Loja Física,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Luana Peixoto,Pessoa Física,Rafael Monteiro,15000,2026,2026-10,485.73
+725,2026-10-20,40,9,20,10,159.9,1599.0,AL,Nordeste,Loja Física,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Larissa Prado,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-10,303.81
+726,2026-10-20,19,14,20,6,159.9,959.4,PR,Sul,Televendas,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Daniel Cardoso,Pessoa Jurídica,Nelson Melo,15000,2026,2026-10,182.286
+727,2026-10-20,12,19,5,8,249.9,1999.2,PE,Nordeste,Loja Física,Em Processamento,Fone Bluetooth ProSound,Eletrônicos,0.22,Juliana Martins,Pessoa Jurídica,Sofia Cardoso,25000,2026,2026-10,439.824
+728,2026-10-21,28,9,12,3,39.9,119.7,AL,Nordeste,Televendas,Em Processamento,Areia Higiênica para Gatos 4kg,Pet,0.28,Debora Cavalcanti,Pessoa Física,Isabela Rodrigues,25000,2026,2026-10,33.516000000000005
+729,2026-10-22,35,10,15,10,24.9,249.0,RS,Sul,E-commerce,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Marcos Vinicius Rocha,Pessoa Física,João Carvalho,15000,2026,2026-10,49.800000000000004
+730,2026-10-23,19,18,2,2,89.9,179.8,SP,Sudeste,E-commerce,Em Processamento,Mouse Sem Fio X200,Informática,0.18,Daniel Cardoso,Pessoa Jurídica,Rafael Monteiro,15000,2026,2026-10,32.364000000000004
+731,2026-10-26,31,5,7,3,459.0,1377.0,MT,Centro-Oeste,Representante,Em Processamento,Air Fryer Family 5L,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Eduarda Costa,15000,2026,2026-10,413.09999999999997
+732,2026-10-27,36,3,10,8,189.9,1519.2,AL,Nordeste,Televendas,Em Processamento,Jaqueta Corta-Vento,Moda,0.35,Camila Andrade,Pessoa Física,Carla Oliveira,15000,2026,2026-10,531.72
+733,2026-10-27,23,4,10,1,189.9,189.9,MG,Sudeste,Representante,Em Processamento,Jaqueta Corta-Vento,Moda,0.35,Marcelo Moreira,Pessoa Jurídica,Diego Souza,15000,2026,2026-10,66.465
+734,2026-10-29,21,8,4,6,3100.0,18600.0,GO,Centro-Oeste,Loja Física,Em Processamento,Smart TV 55'' 4K,Eletrônicos,0.22,Fabio Nunes,Pessoa Física,Henrique Ferreira,30000,2026,2026-10,4092.0
+735,2026-10-31,30,15,19,1,129.9,129.9,AM,Norte,Televendas,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Simone Batista,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-10,35.073
+736,2026-10-31,18,18,17,9,219.9,1979.1,SP,Sudeste,Loja Física,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Amanda Monteiro,Pessoa Física,Rafael Monteiro,15000,2026,2026-10,653.103
+737,2026-10-31,19,6,18,1,179.9,179.9,PA,Norte,Loja Física,Em Processamento,Boneca Interativa Fala e Canta,Brinquedos,0.27,Daniel Cardoso,Pessoa Jurídica,Felipe Pereira,20000,2026,2026-10,48.57300000000001
+738,2026-11-01,19,15,13,6,49.9,299.4,MG,Sudeste,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Daniel Cardoso,Pessoa Jurídica,Olivia Barbosa,15000,2026,2026-11,83.83200000000001
+739,2026-11-02,24,18,14,6,59.9,359.4,SP,Sudeste,E-commerce,Em Processamento,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Aline Nascimento,Pessoa Física,Rafael Monteiro,15000,2026,2026-11,71.88
+740,2026-11-03,32,11,8,6,1850.0,11100.0,AP,Norte,Loja Física,Em Processamento,Bicicleta Aro 29,Esporte e Lazer,0.25,Luana Peixoto,Pessoa Física,Karina Gomes,20000,2026,2026-11,2775.0
+741,2026-11-03,37,13,19,4,129.9,519.6,BA,Nordeste,Televendas,Em Processamento,Pista de Carrinhos Radical,Brinquedos,0.27,Diego Marques,Pessoa Jurídica,Mariana Araujo,20000,2026,2026-11,140.292
+742,2026-11-04,30,20,6,10,199.9,1999.0,SC,Sul,E-commerce,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Simone Batista,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-11,599.6999999999999
+743,2026-11-05,35,7,9,2,329.9,659.8,AL,Nordeste,E-commerce,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Marcos Vinicius Rocha,Pessoa Física,Gabriela Almeida,15000,2026,2026-11,164.95
+744,2026-11-05,32,8,11,9,189.9,1709.1,GO,Centro-Oeste,Televendas,Em Processamento,Ração Premium Cães 15kg,Pet,0.28,Luana Peixoto,Pessoa Física,Henrique Ferreira,30000,2026,2026-11,478.548
+745,2026-11-05,12,2,7,2,459.0,918.0,SP,Sudeste,E-commerce,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Juliana Martins,Pessoa Jurídica,Bruno Santos,20000,2026,2026-11,275.4
+746,2026-11-07,15,7,8,10,1850.0,18500.0,AL,Nordeste,E-commerce,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Bruno Barbosa,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-11,4625.0
+747,2026-11-08,32,6,17,1,219.9,219.9,AC,Norte,E-commerce,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Luana Peixoto,Pessoa Física,Felipe Pereira,20000,2026,2026-11,72.56700000000001
+748,2026-11-10,34,5,14,3,59.9,179.7,MT,Centro-Oeste,Loja Física,Em Processamento,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Vitoria Cunha,Pessoa Física,Eduarda Costa,15000,2026,2026-11,35.94
+749,2026-11-10,40,2,11,9,189.9,1709.1,SP,Sudeste,Representante,Em Processamento,Ração Premium Cães 15kg,Pet,0.28,Larissa Prado,Pessoa Jurídica,Bruno Santos,20000,2026,2026-11,478.548
+750,2026-11-11,34,8,6,9,199.9,1799.1,GO,Centro-Oeste,Loja Física,Em Processamento,Liquidificador Turbo,Casa e Cozinha,0.3,Vitoria Cunha,Pessoa Física,Henrique Ferreira,30000,2026,2026-11,539.7299999999999
+751,2026-11-11,25,18,6,10,199.9,1999.0,SP,Sudeste,Loja Física,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Rogerio Correia,Pessoa Física,Rafael Monteiro,15000,2026,2026-11,599.6999999999999
+752,2026-11-13,23,8,6,7,199.9,1399.3,GO,Centro-Oeste,Representante,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Marcelo Moreira,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-11,419.78999999999996
+753,2026-11-13,25,11,2,5,89.9,449.5,BA,Nordeste,Loja Física,Em Processamento,Mouse Sem Fio X200,Informática,0.18,Rogerio Correia,Pessoa Física,Karina Gomes,20000,2026,2026-11,80.91
+754,2026-11-13,15,3,16,10,149.9,1499.0,AL,Nordeste,Representante,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Bruno Barbosa,Pessoa Jurídica,Carla Oliveira,15000,2026,2026-11,494.67
+755,2026-11-14,7,7,18,7,179.9,1259.3,AL,Nordeste,E-commerce,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Leonardo Almeida,Pessoa Jurídica,Gabriela Almeida,15000,2026,2026-11,340.011
+756,2026-11-15,27,6,11,4,189.9,759.6,MS,Centro-Oeste,Loja Física,Pendente,Ração Premium Cães 15kg,Pet,0.28,Sergio Lopes,Pessoa Física,Felipe Pereira,20000,2026,2026-11,212.68800000000002
+757,2026-11-16,31,5,6,4,199.9,799.6,MT,Centro-Oeste,Representante,Pendente,Liquidificador Turbo,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Eduarda Costa,15000,2026,2026-11,239.88
+758,2026-11-17,7,1,13,3,49.9,149.7,ES,Sudeste,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Leonardo Almeida,Pessoa Jurídica,Ana Silva,15000,2026,2026-11,41.916000000000004
+759,2026-11-17,27,5,20,2,159.9,319.8,MT,Centro-Oeste,E-commerce,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Sergio Lopes,Pessoa Física,Eduarda Costa,15000,2026,2026-11,60.762
+760,2026-11-18,40,2,1,3,4200.0,12600.0,SP,Sudeste,Representante,Em Processamento,Notebook Pro 15,Informática,0.18,Larissa Prado,Pessoa Jurídica,Bruno Santos,20000,2026,2026-11,2268.0
+761,2026-11-18,6,6,7,9,459.0,4131.0,GO,Centro-Oeste,E-commerce,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Camila Pereira,Pessoa Física,Felipe Pereira,20000,2026,2026-11,1239.3
+762,2026-11-19,26,19,7,1,459.0,459.0,PE,Nordeste,Representante,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Cristina Dias,Pessoa Física,Sofia Cardoso,25000,2026,2026-11,137.7
+763,2026-11-20,20,17,18,4,179.9,719.6,MS,Centro-Oeste,Representante,Em Processamento,Boneca Interativa Fala e Canta,Brinquedos,0.27,Priscila Teixeira,Pessoa Jurídica,Queila Alves,15000,2026,2026-11,194.29200000000003
+764,2026-11-20,36,6,3,9,2350.0,21150.0,AC,Norte,Televendas,Em Processamento,Smartphone Galaxy A5,Eletrônicos,0.22,Camila Andrade,Pessoa Física,Felipe Pereira,20000,2026,2026-11,4653.0
+765,2026-11-20,16,17,19,2,129.9,259.8,MS,Centro-Oeste,E-commerce,Pendente,Pista de Carrinhos Radical,Brinquedos,0.27,Vanessa Ribeiro,Pessoa Física,Queila Alves,15000,2026,2026-11,70.146
+766,2026-11-25,20,11,2,5,89.9,449.5,PR,Sul,Representante,Pendente,Mouse Sem Fio X200,Informática,0.18,Priscila Teixeira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-11,80.91
+767,2026-11-26,7,11,18,2,179.9,359.8,PR,Sul,Representante,Em Processamento,Boneca Interativa Fala e Canta,Brinquedos,0.27,Leonardo Almeida,Pessoa Jurídica,Karina Gomes,20000,2026,2026-11,97.14600000000002
+768,2026-11-27,12,20,17,5,219.9,1099.5,SC,Sul,Televendas,Em Processamento,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Juliana Martins,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-11,362.83500000000004
+769,2026-11-29,39,17,11,3,189.9,569.7,MS,Centro-Oeste,E-commerce,Pendente,Ração Premium Cães 15kg,Pet,0.28,Felipe Azevedo,Pessoa Física,Queila Alves,15000,2026,2026-11,159.51600000000002
+770,2026-11-29,31,12,6,1,199.9,199.9,SE,Nordeste,E-commerce,Em Processamento,Liquidificador Turbo,Casa e Cozinha,0.3,Ricardo Fontoura,Pessoa Física,Lucas Martins,25000,2026,2026-11,59.97
+771,2026-11-30,22,12,14,7,59.9,419.3,PA,Norte,Loja Física,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Tatiane Pinto,Pessoa Física,Lucas Martins,25000,2026,2026-11,83.86000000000001
+772,2026-11-30,6,15,17,1,219.9,219.9,AM,Norte,Loja Física,Pendente,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Camila Pereira,Pessoa Física,Olivia Barbosa,15000,2026,2026-11,72.56700000000001
+773,2026-12-01,33,5,15,3,24.9,74.7,MT,Centro-Oeste,Televendas,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Andre Siqueira,Pessoa Jurídica,Eduarda Costa,15000,2026,2026-12,14.940000000000001
+774,2026-12-02,7,14,6,3,199.9,599.7,PR,Sul,Loja Física,Em Processamento,Liquidificador Turbo,Casa e Cozinha,0.3,Leonardo Almeida,Pessoa Jurídica,Nelson Melo,15000,2026,2026-12,179.91
+775,2026-12-07,29,20,16,8,149.9,1199.2,SC,Sul,Representante,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Otavio Farias,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-12,395.73600000000005
+776,2026-12-07,22,5,2,10,89.9,899.0,MT,Centro-Oeste,Loja Física,Pendente,Mouse Sem Fio X200,Informática,0.18,Tatiane Pinto,Pessoa Física,Eduarda Costa,15000,2026,2026-12,161.82
+777,2026-12-07,32,3,18,4,179.9,719.6,AL,Nordeste,E-commerce,Em Processamento,Boneca Interativa Fala e Canta,Brinquedos,0.27,Luana Peixoto,Pessoa Física,Carla Oliveira,15000,2026,2026-12,194.29200000000003
+778,2026-12-09,15,20,7,8,459.0,3672.0,MT,Centro-Oeste,E-commerce,Em Processamento,Air Fryer Family 5L,Casa e Cozinha,0.3,Bruno Barbosa,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-12,1101.6
+779,2026-12-10,29,9,5,4,249.9,999.6,AL,Nordeste,Loja Física,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Otavio Farias,Pessoa Jurídica,Isabela Rodrigues,25000,2026,2026-12,219.912
+780,2026-12-13,40,10,15,3,24.9,74.7,ES,Sudeste,Televendas,Em Processamento,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Larissa Prado,Pessoa Jurídica,João Carvalho,15000,2026,2026-12,14.940000000000001
+781,2026-12-13,13,16,11,10,189.9,1899.0,PB,Nordeste,E-commerce,Em Processamento,Ração Premium Cães 15kg,Pet,0.28,Rafael Araujo,Pessoa Física,Pedro Ribeiro,25000,2026,2026-12,531.72
+782,2026-12-13,15,20,3,10,2350.0,23500.0,SC,Sul,Televendas,Em Processamento,Smartphone Galaxy A5,Eletrônicos,0.22,Bruno Barbosa,Pessoa Jurídica,Thiago Teixeira,25000,2026,2026-12,5170.0
+783,2026-12-14,39,8,9,7,329.9,2309.3,CE,Nordeste,Representante,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Felipe Azevedo,Pessoa Física,Henrique Ferreira,30000,2026,2026-12,577.325
+784,2026-12-15,6,3,13,3,49.9,149.7,AL,Nordeste,E-commerce,Pendente,Coleira Ajustável para Cães,Pet,0.28,Camila Pereira,Pessoa Física,Carla Oliveira,15000,2026,2026-12,41.916000000000004
+785,2026-12-16,35,8,3,8,2350.0,18800.0,GO,Centro-Oeste,Representante,Em Processamento,Smartphone Galaxy A5,Eletrônicos,0.22,Marcos Vinicius Rocha,Pessoa Física,Henrique Ferreira,30000,2026,2026-12,4136.0
+786,2026-12-16,20,1,14,5,59.9,299.5,ES,Sudeste,E-commerce,Em Processamento,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Priscila Teixeira,Pessoa Jurídica,Ana Silva,15000,2026,2026-12,59.900000000000006
+787,2026-12-18,21,12,14,7,59.9,419.3,MA,Nordeste,Loja Física,Pendente,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Fabio Nunes,Pessoa Física,Lucas Martins,25000,2026,2026-12,83.86000000000001
+788,2026-12-18,33,11,10,8,189.9,1519.2,PR,Sul,Loja Física,Em Processamento,Jaqueta Corta-Vento,Moda,0.35,Andre Siqueira,Pessoa Jurídica,Karina Gomes,20000,2026,2026-12,531.72
+789,2026-12-19,23,13,5,2,249.9,499.8,BA,Nordeste,Representante,Pendente,Fone Bluetooth ProSound,Eletrônicos,0.22,Marcelo Moreira,Pessoa Jurídica,Mariana Araujo,20000,2026,2026-12,109.956
+790,2026-12-20,3,8,5,1,249.9,249.9,GO,Centro-Oeste,E-commerce,Em Processamento,Fone Bluetooth ProSound,Eletrônicos,0.22,Rodrigo Oliveira,Pessoa Jurídica,Henrique Ferreira,30000,2026,2026-12,54.978
+791,2026-12-21,23,14,20,5,159.9,799.5,PR,Sul,Televendas,Pendente,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Marcelo Moreira,Pessoa Jurídica,Nelson Melo,15000,2026,2026-12,151.905
+792,2026-12-22,32,20,1,9,4200.0,37800.0,SE,Nordeste,Televendas,Em Processamento,Notebook Pro 15,Informática,0.18,Luana Peixoto,Pessoa Física,Thiago Teixeira,25000,2026,2026-12,6804.0
+793,2026-12-22,14,20,4,2,3100.0,6200.0,SC,Sul,Loja Física,Em Processamento,Smart TV 55'' 4K,Eletrônicos,0.22,Larissa Melo,Pessoa Física,Thiago Teixeira,25000,2026,2026-12,1364.0
+794,2026-12-22,24,2,4,7,3100.0,21700.0,SP,Sudeste,E-commerce,Em Processamento,Smart TV 55'' 4K,Eletrônicos,0.22,Aline Nascimento,Pessoa Física,Bruno Santos,20000,2026,2026-12,4774.0
+795,2026-12-23,35,6,19,10,129.9,1299.0,AC,Norte,Representante,Em Processamento,Pista de Carrinhos Radical,Brinquedos,0.27,Marcos Vinicius Rocha,Pessoa Física,Felipe Pereira,20000,2026,2026-12,350.73
+796,2026-12-24,33,4,13,1,49.9,49.9,MG,Sudeste,Televendas,Pendente,Coleira Ajustável para Cães,Pet,0.28,Andre Siqueira,Pessoa Jurídica,Diego Souza,15000,2026,2026-12,13.972000000000001
+797,2026-12-24,33,2,14,9,59.9,539.1,SP,Sudeste,E-commerce,Em Processamento,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Andre Siqueira,Pessoa Jurídica,Bruno Santos,20000,2026,2026-12,107.82000000000001
+798,2026-12-27,2,18,9,4,329.9,1319.6,SP,Sudeste,Representante,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Fernanda Santos,Pessoa Física,Rafael Monteiro,15000,2026,2026-12,329.9
+799,2026-12-29,3,2,11,2,189.9,379.8,SP,Sudeste,Televendas,Em Processamento,Ração Premium Cães 15kg,Pet,0.28,Rodrigo Oliveira,Pessoa Jurídica,Bruno Santos,20000,2026,2026-12,106.34400000000001
+800,2026-12-29,35,19,9,8,329.9,2639.2,MT,Centro-Oeste,Representante,Pendente,Tênis Runner Pro,Esporte e Lazer,0.25,Marcos Vinicius Rocha,Pessoa Física,Sofia Cardoso,25000,2026,2026-12,659.8
+801,2026-12-29,8,13,15,6,24.9,149.4,RN,Nordeste,Representante,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Patricia Ferreira,Pessoa Física,Mariana Araujo,20000,2026,2026-12,29.880000000000003
+802,2026-12-30,39,11,15,9,24.9,224.1,PR,Sul,Loja Física,Pendente,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Felipe Azevedo,Pessoa Física,Karina Gomes,20000,2026,2026-12,44.82
+803,2026-12-31,8,13,9,9,329.9,2969.1,BA,Nordeste,E-commerce,Em Processamento,Tênis Runner Pro,Esporte e Lazer,0.25,Patricia Ferreira,Pessoa Física,Mariana Araujo,20000,2026,2026-12,742.275
+804,2026-12-31,27,8,7,4,459.0,1836.0,GO,Centro-Oeste,Representante,Em Processamento,Air Fryer Family 5L,Casa e Cozinha,0.3,Sergio Lopes,Pessoa Física,Henrique Ferreira,30000,2026,2026-12,550.8
+805,2026-12-31,13,1,20,5,159.9,799.5,ES,Sudeste,Representante,Em Processamento,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Rafael Araujo,Pessoa Física,Ana Silva,15000,2026,2026-12,151.905
+806,2027-01-01,2,18,20,4,159.9,639.6,RN,Nordeste,Loja Física,Em Processamento,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Fernanda Santos,Pessoa Física,Rafael Monteiro,15000,2027,2027-01,121.524
+807,2027-01-03,16,10,7,3,459.0,1377.0,ES,Sudeste,Televendas,Em Processamento,Air Fryer Family 5L,Casa e Cozinha,0.3,Vanessa Ribeiro,Pessoa Física,João Carvalho,15000,2027,2027-01,413.09999999999997
+808,2027-01-03,24,6,19,2,129.9,259.8,AC,Norte,Representante,Em Processamento,Pista de Carrinhos Radical,Brinquedos,0.27,Aline Nascimento,Pessoa Física,Felipe Pereira,20000,2027,2027-01,70.146
+809,2027-01-04,37,17,4,9,3100.0,27900.0,MS,Centro-Oeste,Televendas,Em Processamento,Smart TV 55'' 4K,Eletrônicos,0.22,Diego Marques,Pessoa Jurídica,Queila Alves,15000,2027,2027-01,6138.0
+810,2027-01-04,11,8,17,3,219.9,659.7,MG,Sudeste,Representante,Em Processamento,Secador de Cabelo Profissional,Beleza e Cuidados Pessoais,0.33,Alexandre Gomes,Pessoa Física,Henrique Ferreira,30000,2027,2027-01,217.70100000000002
+811,2027-01-06,18,5,1,5,4200.0,21000.0,MT,Centro-Oeste,Televendas,Pendente,Notebook Pro 15,Informática,0.18,Amanda Monteiro,Pessoa Física,Eduarda Costa,15000,2027,2027-01,3780.0
+812,2027-01-07,18,15,14,5,59.9,299.5,AP,Norte,Representante,Em Processamento,"Livro ""Produtividade na Prática""",Livros e Papelaria,0.2,Amanda Monteiro,Pessoa Física,Olivia Barbosa,15000,2027,2027-01,59.900000000000006
+813,2027-01-07,6,14,12,3,39.9,119.7,PR,Sul,Representante,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Camila Pereira,Pessoa Física,Nelson Melo,15000,2027,2027-01,33.516000000000005
+814,2027-01-08,20,15,16,9,149.9,1349.1,PI,Nordeste,E-commerce,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Priscila Teixeira,Pessoa Jurídica,Olivia Barbosa,15000,2027,2027-01,445.203
+815,2027-01-09,39,8,13,4,49.9,199.6,GO,Centro-Oeste,Loja Física,Pendente,Coleira Ajustável para Cães,Pet,0.28,Felipe Azevedo,Pessoa Física,Henrique Ferreira,30000,2027,2027-01,55.888000000000005
+816,2027-01-12,30,5,8,3,1850.0,5550.0,MT,Centro-Oeste,Televendas,Em Processamento,Bicicleta Aro 29,Esporte e Lazer,0.25,Simone Batista,Pessoa Jurídica,Eduarda Costa,15000,2027,2027-01,1387.5
+817,2027-01-14,21,3,7,7,459.0,3213.0,AL,Nordeste,Televendas,Pendente,Air Fryer Family 5L,Casa e Cozinha,0.3,Fabio Nunes,Pessoa Física,Carla Oliveira,15000,2027,2027-01,963.9
+818,2027-01-15,31,5,9,3,329.9,989.7,MT,Centro-Oeste,Televendas,Em Processamento,Tênis Runner Pro,Esporte e Lazer,0.25,Ricardo Fontoura,Pessoa Física,Eduarda Costa,15000,2027,2027-01,247.425
+819,2027-01-18,16,15,13,1,49.9,49.9,PE,Nordeste,Televendas,Em Processamento,Coleira Ajustável para Cães,Pet,0.28,Vanessa Ribeiro,Pessoa Física,Olivia Barbosa,15000,2027,2027-01,13.972000000000001
+820,2027-01-20,36,11,15,1,24.9,24.9,PR,Sul,Loja Física,Em Processamento,Caderno Universitário 200 Folhas,Livros e Papelaria,0.2,Camila Andrade,Pessoa Física,Karina Gomes,20000,2027,2027-01,4.98
+821,2027-01-21,3,16,1,1,4200.0,4200.0,AM,Norte,Televendas,Em Processamento,Notebook Pro 15,Informática,0.18,Rodrigo Oliveira,Pessoa Jurídica,Pedro Ribeiro,25000,2027,2027-01,756.0
+822,2027-01-23,8,11,18,7,179.9,1259.3,PR,Sul,Loja Física,Em Processamento,Boneca Interativa Fala e Canta,Brinquedos,0.27,Patricia Ferreira,Pessoa Física,Karina Gomes,20000,2027,2027-01,340.011
+823,2027-01-23,16,9,18,7,179.9,1259.3,AL,Nordeste,Televendas,Pendente,Boneca Interativa Fala e Canta,Brinquedos,0.27,Vanessa Ribeiro,Pessoa Física,Isabela Rodrigues,25000,2027,2027-01,340.011
+824,2027-01-23,28,4,6,5,199.9,999.5,MG,Sudeste,Televendas,Em Processamento,Liquidificador Turbo,Casa e Cozinha,0.3,Debora Cavalcanti,Pessoa Física,Diego Souza,15000,2027,2027-01,299.84999999999997
+825,2027-01-23,11,2,13,10,49.9,499.0,SP,Sudeste,Televendas,Pendente,Coleira Ajustável para Cães,Pet,0.28,Alexandre Gomes,Pessoa Física,Bruno Santos,20000,2027,2027-01,139.72000000000003
+826,2027-01-24,32,13,5,7,249.9,1749.3,MS,Centro-Oeste,Loja Física,Em Processamento,Fone Bluetooth ProSound,Eletrônicos,0.22,Luana Peixoto,Pessoa Física,Mariana Araujo,20000,2027,2027-01,384.846
+827,2027-01-26,3,9,3,8,2350.0,18800.0,AL,Nordeste,Representante,Em Processamento,Smartphone Galaxy A5,Eletrônicos,0.22,Rodrigo Oliveira,Pessoa Jurídica,Isabela Rodrigues,25000,2027,2027-01,4136.0
+828,2027-01-26,9,1,13,4,49.9,199.6,ES,Sudeste,Televendas,Pendente,Coleira Ajustável para Cães,Pet,0.28,Gustavo Rodrigues,Pessoa Física,Ana Silva,15000,2027,2027-01,55.888000000000005
+829,2027-01-27,38,13,8,7,1850.0,12950.0,BA,Nordeste,E-commerce,Pendente,Bicicleta Aro 29,Esporte e Lazer,0.25,Beatriz Nogueira,Pessoa Jurídica,Mariana Araujo,20000,2027,2027-01,3237.5
+830,2027-01-27,32,4,8,4,1850.0,7400.0,MG,Sudeste,Televendas,Em Processamento,Bicicleta Aro 29,Esporte e Lazer,0.25,Luana Peixoto,Pessoa Física,Diego Souza,15000,2027,2027-01,1850.0
+831,2027-01-28,5,14,12,2,39.9,79.8,PR,Sul,Loja Física,Pendente,Areia Higiênica para Gatos 4kg,Pet,0.28,Vinicius Costa,Pessoa Jurídica,Nelson Melo,15000,2027,2027-01,22.344
+832,2027-01-29,6,8,20,2,159.9,319.8,GO,Centro-Oeste,Televendas,Em Processamento,Capa Protetora para Bancos Automotivos,Automotivo,0.19,Camila Pereira,Pessoa Física,Henrique Ferreira,30000,2027,2027-01,60.762
+833,2027-01-29,10,12,16,6,149.9,899.4,AC,Norte,E-commerce,Pendente,Kit Skincare Facial,Beleza e Cuidados Pessoais,0.33,Renata Carvalho,Pessoa Física,Lucas Martins,25000,2027,2027-01,296.802
